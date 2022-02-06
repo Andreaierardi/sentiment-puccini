@@ -1,10 +1,4 @@
 ,segnatura,giorno,mese,anno,contenuto,tipologia,Anag_tabAnagLettere::cognome,Anag_tabAnagLettere::nome,text,NeuralNetworks2_sent,NeuralNetworks4_sent,SentITA,SentITA_emotions
-0,CLET000002,3.0,1.0,1888.0,,copialettere,Puccini,Giacomo,"Ricordi editore per Puccini
-Napoli
-non dubito buon volere impresa ma esigete quanto occorre assicurare successo. Oltre cantanti curate molto messa scena intermezzo ridda finale. Sentite consigli qualche distinto pittore onde riuscire scena poetica fantastica. Saluti cordiali
-Ricordi
-
-",positive,positive,positive,joy
 2,CLET000024,11.0,8.0,1888.0,Sollecita a finire l'opera,copialettere,Puccini,Giacomo,"Milano 11 Agosto
 Sig.r Maestro G. Pucini
 Chiasso
@@ -118,27 +112,6 @@ Eug Tornaghi",negative,negative,negative,joy
 Caris. Puccini-
 Ebbi la sua lettera: sta bene ....ma per eseguire tutto bisogna cominciare ad avere il ibretto coi tagli!....anche per darlo a Fontana, che sarà a Milano il 15 cons- Ho ordinato al Zuccarelli le scene, modificando la seconda: ma anche costui non è a Milano, per cui per iscritto .... non so se avrà capito! - Aspetto la musica coi trasporti e tagli, senza di che non si può mettere in ordine lo spartito_ Ho scritto anche a Durot, ed aspetto risposta_ Per di lei norma parto Domenica mattina per 8 qui: occorrendo scriva allo studio. Cordiali saluti
 GR.",negative,negative,negative,sadness
-43,CLET000084,27.0,9.0,1890.0,,copialettere,Puccini,Giacomo,"27 7bre     0
-Puccini cariss°,
-In possesso della cara tua c.p. 25 corr. ti obbedisco oggi stesso la nota somma fermo all'Ufficio postale di Chiasso.
-Tanto per tua norma, mentre ti saluto caramente
-tuo aff.° amico
-C. Blanc",negative,neutral,negative,joy
-45,CLET000086,23.0,10.0,1890.0,,copialettere,Puccini,Giacomo,"Milano 23 Ott. 90
-Cariss.mo Puccini.
-Il mio silenzio non significa ch'io non mi sia occupato di lei! ... al contrario, ho invece lavorato e fatto sedute anche con Leoncavallo - e qui le mando il frutto del lavoro- Credo utile ch'Ella lo veda prima, lo studi e se le va, può rimandarmelo che allora lo sottoporrò all'Oliva. Ora mi pare ben disegnato il duetto fra Manon e Renato e la chiusa proceda rapida e chiara.
-Le spedisco fermo in posta a Cernobbio la musica che desidera: sarà meglio vadi non prima di Sabato a ritirarla.
-Spero ottima la salute di loro tutti. E il freddo? ... non li scaccia? ....
-Aspetto sentire l'impressione sua su questa ultima scena- e spero meritarmi 10 punti di lode, se non altro pel lavoro fatto.
-Una cordialissima stretta di mano dal 
-Suo Aff
-Giulio Ricordi",negative,negative,positive,joy
-49,CLET000087,1.0,11.0,1890.0,,copialettere,Puccini,Giacomo,"1° Novbre 90
-Caro Puccini,
-In possesso della tua c.p. d'jeri ti ho mandato subito in busta assicurata la solita mensilità. Non so però se te la porteranno costi o se te ne daranno avviso da Chiasso.
-Tanti saluti da tutti ed una stretta di mano dal
-tuo aff amico
-Blanc",negative,positive,negative,sadness
 51,CLET000088,21.0,11.0,1890.0,Pagamento mensilità.,copialettere,Puccini,Giacomo,"21 Novbre  90
 Cariss° Puccini,
 D'incarico del Sig. Comm.\e/ Giulio ti mando oggi stesso in busta assicurata la somma di £300 per la solita mensilità.
@@ -158,15 +131,6 @@ Sono spiacentissimo nel leggere i suoi timori di qualche temporale!!... si armi 
 Sarò lieto sapere ch'Ella è perfettamente ristabilito = una amichevolissima stretta di mano dal
 di Lei Aff
 Giulio Ricordi",negative,negative,negative,sadness
-58,CLET000097,31.0,5.0,1891.0,,copialettere,Puccini,Giacomo,"R.P.
-Giacomo Puccini
-via Angelo Custode 10. Lucca.
-Lo aspetto Martedì senza fallo per decidere tutto affari pedenti. A rivederci
-Ricordi",positive,neutral,negative,anger
-60,CLET000098,19.0,6.0,1891.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Angelo custode 10. Lucca.
-Francesconi deve essere costi Albergo Rebecchino. Lo avverta altri progetti perchè si regoli.
-Ricordi",negative,neutral,negative,sadness
 62,CLET000099,30.0,6.0,1891.0,Pagamento mensilità,copialettere,Puccini,Giacomo,"30 giugno 91
 Cariss° Puccini,
 
@@ -183,26 +147,6 @@ aff° tuo amico
 Cesare Blanc
 
 Tanti saluti al carissimo Carignani D'incarico del S\r/ Giulio ti prevengo che riceverai sottofascia per la posta N.150 libretti Edgar da regalare all'orchestra, cori, etc!",negative,neutral,negative,joy
-70,CLET000109,26.0,1.0,1892.0,,copialettere,Puccini,Giacomo,"Puccini
-Teatro Comunale. Ferrara.
-Sperai fino ultimo momento poter venire. Assolutamente impossibile lasciare ora Milano. Lieto migliori notizie aspetto ansioni quelle prova generale. Mando più vivi sentiti auguri.
-Ricordi",negative,positive,positive,joy
-72,CLET000110,27.0,1.0,1892.0,,copialettere,Puccini,Giacomo,"Puccini
-Teatro. Ferrara.
-Lietissimo notizie ripeto a carissimo Doge a tutti quantilì vivi auguri per domani. Telegrafai per bicchierata Bolelli passarle occorrente.
-Ricordi",positive,positive,positive,joy
-74,CLET000111,28.0,1.0,1892.0,,copialettere,Puccini,Giacomo,"Puccini
-Teatro Comunale. Ferrara.
-Rinnovo con tutto cuore nome tutti noi auguri vivissimi per stasera. Urgendo suo ritorno anche per affare Madrid telegraferò quado necessaria sua presenza.
-Ricordi",positive,positive,positive,joy
-76,CLET000112,29.0,1.0,1892.0,,copialettere,Puccini,Giacomo,"Puccini
-Teatro Comunale. Ferrara
-Un evviva un abbraccio di gran cuore. Faccia parte mia complimenti tutti quanti. Consiglio rimanere seconda terza ritornando Lunedi.
-Ricordi",negative,positive,positive,joy
-78,CLET000113,31.0,1.0,1892.0,,copialettere,Puccini,Giacomo,"Puccini
-Teatro Ferrara.
-Evviva ancora il nostro caro Doge che speriamo vedere Lunedì.
-Ricordi",negative,positive,positive,joy
 80,CLET000116,6.0,3.0,1892.0,Successo Edgar,copialettere,Puccini,Giacomo,"Puccini
 Teatro Reale. Madrid.
 Benissimo Edgar Torino. Ottima impressione musica. Saluti tutti quanti.
@@ -221,14 +165,6 @@ Ricordi",negative,negative,positive,sadness
 Teatro Real. Madrid.
 Spiacente nuovo ritardo. Speriamo Sabato. Rinnovo auguri. Per serata Gigi sarà bene faccia lei pure secondo sue forze. Torino seguito successo terza Impresa prolunga Stagione con Edgar.
 Ricordi",positive,positive,positive,joy
-88,CLET000120,17.0,3.0,1892.0,,copialettere,Puccini,Giacomo,"Puccini
-Teatro Real. Madrid.
-Auguriamo completo trionfo. Saluti.
-Ricordi",positive,positive,positive,joy
-90,CLET000121,20.0,3.0,1892.0,,copialettere,Puccini,Giacomo,"Puccini
-Teatro Real. Madrid.
-Evviva. A rivederci.
-Ricordi",negative,neutral,positive,joy
 92,CLET000135,22.0,7.0,1892.0,Ricordi suggerisce diversa modifica (rispetto a quella che chiede Puccini) del libretto per la fine del 2° Atto. Chiede invio del materiale appena pronto ed invia a sua volta i bozzetti delle scene. Informa dell'arrivo della traduzione tedesca delle Villi.,copialettere,Puccini,Giacomo,"22-7-92.
 Caris. Puccini.
 La ringrazio delle notizie che mi favorisce: meno male che, finita l'Odissea del pianoforte, ora sono a posto.
@@ -267,15 +203,6 @@ Giulio Ricordi",negative,negative,negative,sadness
 108,CLET000144,6.0,8.0,1892.0,Riguardo ultimi aggiustamenti per libretto e musica,copialettere,Puccini,Giacomo,"6 Agosto 92
 Caris.° Puccini - Ha ragione lei: infatti il brano: ""Addio, mia stella"" d'Edmondo, c'è- m'era sfuggito. Le ns lettere si sono incrociate - Siamo intesi-
 Mascheroni mi avvertirà, per rimanere a Brescia il meno possibile, perchè ancora io ho molto a fare - Ho visto Illica: siamo d'accordo pienamente. Manca però sempre quel brano nuovo per Des Grieux alla fine 2° Atto - ma vedremo di presenza. Di nuovo e cordialmente Suo Aff GR.",negative,negative,negative,sadness
-112,CLET000145,16.0,8.0,1892.0,,copialettere,Brogi,Augusto,"Maestro Puccini
-Albergo Italia       Brescia
-Impossibile Brogi come impossibile baritono Maggi Tutto sommato non deve oltre rimanere prestandosi ad un massacro sua opera. Lo dica pure tutti anche mio nome
-Ricordi",negative,negative,negative,sadness
-116,CLET000148,0.0,0.0,0.0,,copialettere,Puccini,Giacomo,"Espresso pagato
-Giacomo Puccini   Vacallo
-Chiasso
-Se può venire stasera o domattina presto finiamo subito primo atto e libretto Urgente perchè parto Ssabato. Cordiali saluti tutti
-Ricordi",negative,negative,positive,sadness
 118,CLET000149,5.0,8.0,1896.0,Problemi nolo Bohème per Lucca.,copialettere,Puccini,Giacomo,"R.P.
 Maestro Puccini
 Torre del Lago
@@ -333,10 +260,6 @@ Ho scritto a Vienna prevenendo del di lei prossimo arrivo.
 Termino ripetendo auguri a nome di tutti di casa mia, e di studio- pronti a gridare entusiastici evviva!
 Una cordiale stretta di mano da Suo Aff\mo/
 Giulio Ricordi",negative,negative,positive,joy
-133,CLET000181,29.0,11.0,1892.0,,copialettere,Puccini,Giacomo,"Puccini
-presso Pollini Teatro Opera Amburgo
-Auguri. Auguri. Auguri.
-Ricordi",positive,positive,positive,joy
 136,CLET000186,6.0,12.0,1892.0,Riguardo all'esecuzione viennese e al soggetto di Manon. Invio di 200 fiorini.,copialettere,Puccini,Giacomo,"6 Dic. 92
 Caris.° Puccini.
 Ebbi sue cartoline, e stamane la sua lettera viennese del 4 =!...
@@ -350,14 +273,6 @@ Faccia i nostri cordialissimi saluti al Baron Eisner ad alla gentile di lui sign
 Dunque? ... presto avremo il piacere di rivederla: io spero proprio che questo suo viaggio le possa tornar utile, sia al di Lei nome, sia perchè vedendo e sentendo..... si vede il mondo com'è, e si fa esperienza.
 Saluti cordialissimi da tutti, tutti noi da casa e di studio. Una buona stretta di mano dal Suo Aff\mo/
 Giulio Ricordi",negative,negative,negative,sadness
-142,CLET000194,1.0,1.0,1893.0,,copialettere,Puccini,Giacomo,"Puccini
-Teatro Regio. Torino
-Grazie suoi carissimi auguri. Tutti li concambiano di gran cuore perchè nuovo anno le porti tutte meritate soddisfazioni collocando Doge sul trono.
-Ricordi",positive,positive,positive,joy
-144,CLET000196,2.0,1.0,1893.0,,copialettere,Puccini,Giacomo,"Puccini.
-Teatro Regio. Torino
-Fuori casa ebbi tardi telegramma. Sono sbalordito tonto più non sapendo come rimediare non essendovi artisti appena possibili. Qualora confermasi deficiente non rimarrebbe che ritirare opera. Sono ora impegnato ma occorrendo farà corsa entro settimana. Intanto provi ancora con pazienza sembrandomi quasi impossibile artista ebbe sempre successo manchi ora completamente. Saluti.
-Ricordi",positive,negative,negative,anger
 146,CLET000197,4.0,1.0,1893.0,"Problemi sulla scelta di Cremonini come tenore per la Manon, se lui non va bene bisognerà ritirare l'opera.",copialettere,Cremonini,Giuseppe,"4 Gennaio 1893
 Caris.° Puccini
 Torino
@@ -378,15 +293,6 @@ Tanti saluti all'amico Carignani ed a te: auguri sinceri pel completo trionfo!
 Credimi sempre
 tuo aff° amico
 C. Blanc",positive,negative,positive,joy
-154,CLET000199,11.0,1.0,1893.0,,copialettere,Puccini,Giacomo,"R.P.
-Puccini
-Teatro Regio. Torino
-Sta bene stassera?
-Ricordi",positive,positive,negative,sadness
-156,CLET000200,14.0,1.0,1893.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Teatro Regio  Torino
-Variante Minuetto spedita posta giorno sette indirizzo Cesari. Saluti Auguri
-Blanc",positive,positive,positive,joy
 158,CLET000201,17.0,1.0,1893.0,Invio Bono Banca Nazionale.,copialettere,Puccini,Giacomo,"17 del 93
 Carissimo Puccini,
 Ricevo la gradita tua cartolina d'jeri e d'incarico del S\r/ Com. Giulio ti mando qui accluso un Bono Banca Naz\le/ di £200-.
@@ -396,10 +302,6 @@ Coi saluti cordiali dell' eg° ns S\r/ Tornaghi, m'è caro ripetermi
 tuo aff° amico
 C. Blanc
 Salutami Carignani",negative,negative,negative,joy
-164,CLET000202,19.0,1.0,1893.0,,copialettere,Puccini,Giacomo,"Puccini
-Teatro Regio. Torino
-Lietissimo buone notizie-Evviva. Spedisco messa scena. Cominciate sbozzare prove su questa. Verrò Domenica sera 10 e 47. Disponete due buone prove scena Lunedì non potendo fermarmi oltre. A rivederci.
-Ricordi",negative,positive,positive,joy
 166,CLET000203,19.0,1.0,1893.0,Spedizione di 311 libretti della Manon Lescaut.,copialettere,Puccini,Giacomo,"19 del 93
 Cariss° Puccini.
 D'incarico del S\r/ Com. Giulio ti abbiamo spedito oggi a 1/2 ferrovia p. r.
@@ -412,10 +314,6 @@ Le 20 copie che rimangono servono per te da regalare a quelle persone che creder
 Tante cose da tutti ed una stretta di mano dal
 tuo aff° amico
 C. Blanc",negative,neutral,positive,joy
-169,CLET000204,20.0,1.0,1893.0,,copialettere,Puccini,Giacomo,"Puccini.
-Teatro Regio. Torino.
-Sta bene Mercoledì sera. Saluti cordiali
-Ricordi",positive,positive,positive,sadness
 171,CLET000205,24.0,1.0,1893.0,Organizzazione prove,copialettere,Puccini,Giacomo,"R.P.
 Puccini
 Teatro Regio. Torino.
@@ -447,10 +345,6 @@ Ricordi",positive,positive,positive,joy
 Teatro Regio. Torino.
 Nuovi interminabili evviva al sommo Doge e tutti quanti. A rivederci presto.
 Ricordi",negative,negative,positive,joy
-185,CLET000212,5.0,2.0,1893.0,,copialettere,Puccini,Giacomo,"Puccini.
-Teatro Regio. Torino.
-Sua lettera recommi vera consolazione. Avanti sempre. Aspetto ansioso abbracciare Doge.
-Ricordi",positive,positive,positive,sadness
 187,CLET000247,6.0,6.0,1893.0,Osservazioni riguardo alla Bohème.,copialettere,Giacosa,Giuseppe,"6 Giugno 1893.
 Caris.\mo/ Puccini.
 Trento
@@ -490,10 +384,6 @@ Ricordi",positive,positive,positive,joy
 Teatro Sociale. Trento
 Ancora aspetto notizie terzo quarto. Se soddisfatto da questo complesso giudica opportuno Venezia non oppongomi purchè nolo conveniente e cambiata ultima scena. Declino però ogni responsabilità. Cordiali saluti.
 Ricordi",negative,negative,negative,sadness
-205,CLET000253,11.0,6.0,1893.0,,copialettere,Puccini,Giacomo,"Puccini.
-Teatro Sociale. Trento
-Evviva ad invincibile Doge. Auguri per avvenire.
-Ricordi",positive,positive,positive,joy
 207,CLET000261,2.0,8.0,1893.0,Invio mensilità; Giannini studierà con Carignani la parte di Manon.,copialettere,Puccini,Giacomo,"2 agosto 93
 Caro Puccini,
 In possesso della cara tua cartolina d'jeri m'affretto compiegarti la solita mesata, unitamente al modulo ricevuta che ti compiacerai ricambiarci debitamente firmata.
@@ -576,30 +466,10 @@ Nella lusinga di vederla qui a giorni, la saluto cordialmente a nome del ns Sig 
 dev. aff°
 p p G. Ricordi e C.
 Eug Tornaghi",negative,negative,negative,joy
-248,CLET000280,1.0,11.0,1893.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Teatro Amburgo
-Crediamo conveniente andiate Roma. Avvertiamo Sabato 4 prima Bologna.
-Cordiali saluti.
-Ricordi",negative,negative,positive,joy
 250,CLET000281,8.0,11.0,1893.0,Riguarda l'invio di alcune fotografie che andrebbero ristampate.,copialettere,Puccini,Giacomo,"Cav. Puccini
 Teatro Nazionale Roma
 Mancando fotografie si dovrebbero ristampare spediamo intanto undici copie. Signor Giulio arriverà stassera. Cordiali auguri e saluti
 Ricordi",negative,positive,positive,joy
-253,CLET000282,9.0,11.0,1893.0,,copialettere,Puccini,Giacomo,"Maestro Puccini.
-Teatro Nazionale. Roma.
-Ritorno questo momento. Ricevo telegramma Manon. E' miglior augurio che potessi desiderare. Ripeto Evviva Doge. A rivederci.
-Ricordi",positive,positive,positive,joy
-255,CLET000283,10.0,11.0,1893.0,,copialettere,Puccini,Giacomo,"Puccini.
-Teatro Nazionale. Roma
-Benone. Centomila viva Doge. Bene restare per cibaria augurandole risposte eloquenza ciceroniana. Trovo indispensabile sua gita Ascoli assicurando così esito mentre inutile serata onore costi. Qualora puossi ritardare facendo gita Ascoli ritornando Roma. Guadagneremo tempo perduto suo ritorno. Saluti cordiali.
-Ricordi",positive,positive,negative,sadness
-257,CLET000284,11.0,11.0,1893.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Teatro Nazionale. Roma.
-Qualora come sperasi bene Ascoli consiglierei ritornando fermarsi assistere una rappresentazione. Saluti
-Ricordi",negative,positive,positive,sadness
-259,CLET000285,12.0,11.0,1893.0,,copialettere,Puccini,Giacomo,"Puccini. Teatro Nazionale. Roma
-Niente Ascoli probabile trasportata prima stassera. Telegrafo per notizie. Troverei utile recarsi un giorno Ascoli inutile rimanere per pranzo. Cordiali saluti.
-Ricordi",negative,negative,positive,sadness
 261,CLET000286,13.0,11.0,1893.0,Riguardo indisposizione del tenore in Manon ad Ascoli.,copialettere,Puccini,Giacomo,"Puccini
 Teatro Nazionale. Roma.
 Auguri serata domani. Causa malattia tenore Manon Ascoli Mercoledì- Sarebbe utile sua andata ma temiamo difficile combinare causa treni.
@@ -612,14 +482,6 @@ Ricordi",negative,negative,positive,joy
 Solferino 27. Città
 Oggi alle quattro presso Giacosa.
 Ricordi",negative,neutral,positive,joy
-268,CLET000300,21.0,1.0,1894.0,,copialettere,Puccini,Giacomo,"Ricordi editore per Puccini.
-Napoli.
-Passai notte sveglio emozione vivissima. Mando abbraccio caro Doge ed evviva nome tutti. Raccomando ora riposo cura salute. Rimanga necessario per confermare successo. Basterà per Milano 26 0 27 più tardi. Saluti cordiali anche Signora.
-Giulio",negative,positive,positive,joy
-271,CLET000316,1.0,5.0,1894.0,,copialettere,Puccini,Giacomo,"Puccini
-Hotel Nord Firenze
-Spero con nuove prove avrà esecuzione ottima. Copie per stampa già consegnate Cesari. Tito parte per Londra giorno sette. Cordiali saluti
-Ricordi",positive,positive,positive,joy
 274,CLET000317,2.0,5.0,1894.0,Riguardo alle prove ed alla necessità che Puccini si trovi a Londra entro il dieci corrente.,copialettere,Puccini,Giacomo,"Maestro Puccini
 Hotel Nord Firenze
 Spero prove bene. Aspetto notizie. Lunga conferenza Illica. Spero sarà contento risultato. Cominciate Londra lettera orchestra. Eccellente effetto. Regolisi trovarsi colà non dopo dieci corrente. Saluti. Auguri.
@@ -701,10 +563,6 @@ C. Blanc",positive,negative,negative,sadness
 Torre del Lago
 Villi Trento grande successo. Spedito secondo Atto. Saluti cordiali.
 Ricordi",positive,positive,positive,joy
-314,CLET000333,29.0,6.0,1894.0,,copialettere,Verga,Giovanni,"Puccini
-Hotel Globo. Catania
-Lietissimo buone notizie. Cordiali saluti Lei Verga ed auguri per completo lupeggiamento.
-Ricordi",positive,positive,positive,joy
 317,CLET000334,2.0,7.0,1894.0,Pagamento mensilità.,copialettere,Puccini,Giacomo,"2 luglio 94
 Gentilissima Sig\ra/ Elvira,
 Dietro cartolina di Giacomo ricevuta stamane da Catania mi affretto rimetterle qui accluso per conto della Casa la somma di £600- (seicento) per la solita convenuta mensilità.
@@ -747,10 +605,6 @@ Carissimo Puccini.
 Faccio seguito all'ultima mia, dopo aver avuto un lungo colloquio con Illica - e le scrivo ..... molto sbalordito, avendo trovato Illica irritatissimo con Lei!!!.... e quasi, quasi deciso a non volerne saper più della Bohème per la quale se lamenta d'aver perduto tanto lavoro e tanto tempo, senza frutto alcuno, vedendosi preso, lasciato, ripreso, messo da parte, come un cane. Infine, è inutile ch'io mi dilunghi: la conclusione è che ho ottenuto da Illica ch'egli si metta subito al quartiere latino = e vuole ch'io Le scriva (ecco perché lo faccia) che si mette al lavoro per solo mio riguardo!!. Ambasciator non porta pena. Quanto al 2° Atto, dice inutile scartabellare i lavori indicati, sortendo dal seminato: trova ottima la barriera (ed io divido questo parere), rimessa com'era prima: su questa, nel caso del lavoro, si vedrà cosa sarà utile di fare, tagliare, modificare: quindi porrà mano anche al 3° Atto. Scrivo subito a Giacosa, per farmi mandare l'Atto 2°- Intanto, in mezzo a tutto questo trambusto, a questa tempesta, non veggo che un raggio di sole consolatore: ed è l'assicurazione ch'Ella lavora a tutta lena e bene: avanti dunque! Mi rammento il bellissimo attacco anche del Quartiere Latino! Ah! Doge, Doge!!..quanto, quanto tempo perduto!!. Una cordiale stretta di mano dal
 suo Aff
 Giulio Ricordi",negative,negative,negative,sadness
-340,CLET000342,20.0,7.0,1894.0,,copialettere,Puccini,Giacomo,"Giacomo Puccini
-Torre del Lago
-Scrittole jeri. Certamente sua venuta utilissima necessaria. Aspettolo Martedì non Lunedì. Cordiali saluti tutti.
-Ricordi",negative,negative,positive,joy
 342,CLET000348,13.0,8.0,1894.0,"Comunicazioni varie, richiesta stato avanzamento lavori a  Bohème.",copialettere,Puccini,Giacomo,"13 agosto   4
 Caro Puccini,
 Di ritorno da una breve assenza, trovo qui un biglietto dell'ottimo ns S\r/ Com. Giulio che m'incarica di farti sapere quanto sia dispiacente di non potere affidare a cod° S\r/ Toselli le corrispondenze della Gazzetta trovandosi già impegnato coll'ottimo S\r/ Landi. Se per una ragione qualunque, il S\r/ Landi avesse a rinunciare a questo grandissimo onore, che la preferenza sarebbe pel tuo raccomandato.
@@ -803,15 +657,6 @@ Cordiali saluti dal Sig. Giulio e dal
 suo dev aff
 Eug Tornaghi
 ",negative,negative,negative,sadness
-363,CLET000363,27.0,10.0,1894.0,,copialettere,Puccini,Giacomo,"27 ottobre   4
-Caro Puccini,
-Rispondo alla cara tua di jeri. Qui noi non sapevamo che l'Impresa d'Ancona avesse scritturato il S\r/ M° Pomè-Penna ed avendo ricevuto dal Cav. Hofmeister (rispettabile persona che fa parte della Direzione del teatro) una calda raccomandazione in favore del S\r/ M° Barattoni, gli si rispose di non avere nulla in contrario. Il S\r/ M° Barattoni ha già diretto parecchi importanti spettacoli ed in modo lodevole. Quanto al fatto di Modena deve esservi stata qualche causa di retroscena. L'Impresa di Ancona si era già rivolta alla Casa per far imporre il Maestro Pomè-Penna e le venne risposto che dal momento che essa aveva già scritturato questo maestro non le restava che di insistere presso la Direzione per farlo accettare.
-Se credi, potresti rispondere all'Impresa (beninteso senza nominare altri maestri) che trattandosi di opera nuova per Ancona, tu preferisci che la direzione venga affidata al S\r/ M° Pomè-Penna il quale già conosce lo spartito avendolo diretto più volte.
-M\r/ B. A. Streatfield del British Museum di Londra ci domanda una tua fotografia firmata, più un piccolo autografo di musica. Ti spedirò fotografia con preghiera di firmarla e rimandarmela insieme all'autografo, trattandosi di accontentare una persona degna di tanto onore.
-Spero che la dichiarazione richiestati dall'eg° S\r/ Tornaghi per l'affare di Budapest sarà già in viaggio.
-Cordiali saluti da tutti noi ed una stretta di mano dal
-tuo aff amico
-C. Blanc",negative,negative,negative,sadness
 367,CLET000364,30.0,10.0,1894.0,"Invio partiture Villi, Edgar e Manon e 2 fotografie; riguardo all'affare del direttore d'orchestra per Ancona; pagamento mensilità.",copialettere,Puccini,Giacomo,"30 ottobre   4
 Caro Puccini,
 Sono in possesso delle grad. tue di jeri e della lettera alla Ditta per l'affare di Budapest.
@@ -833,14 +678,6 @@ Come! ha esclamato il Sig\r/ Giulio vedendo la tua domanda, un milionario qual'�
 Tanti cordiali saluti da tutti noi ed in attesa di presti stringerti la mano mi ripeto
 aff tuo amico
 C. Blanc",negative,negative,negative,sadness
-378,CLET000377,7.0,3.0,1895.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Teatro Avvalorati. Livorno
-Spero Impresa provvederà deficienze. Parmi utile soprassedere sua decisione perchè partendo sarebbe grave danno esito spettacolo. Sta bene insistere per avere quanto occorre buona esecuzione. Saluti.
-Ricordi",negative,positive,negative,sadness
-380,CLET000378,8.0,3.0,1895.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Teatro Avvalorati. Livorno.
-Disponibile pronto Bracale.
-Ricordi",negative,neutral,positive,sadness
 382,CLET000379,8.0,3.0,1895.0,Puccini stesso dovrebbe dirigere l'orchestra per le prime due rappresentazioni.,copialettere,Puccini,Giacomo,"Maestro Puccini.
 Teatro Avvalorati. Livorno.
 Tutto considerato consiglierei assumere Ella stesso direzione orchestra prime due sere. Ciò toglierebbe tutte difficoltà assicurando esecuzione ed esito. Saluti cordiali.
@@ -849,17 +686,9 @@ Ricordi",negative,negative,positive,sadness
 Teatro Avvalorati. Livorno.
 Lietissimo notizie rassicuranti spero con energia pazienza Doge rimedierà anche cori facendo prove speciali oggi domani. Telegrafi ulteriori notizie prove. Cordiali saluti. 
 Ricordi",negative,negative,positive,sadness
-386,CLET000381,9.0,3.0,1895.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Teatro Avvalorati. Livorno
-Auguri cordiali al Doge per nuovo completo trionfo.
-Ricordi",positive,positive,positive,joy
 388,CLET000382,10.0,3.0,1895.0,Successo Manon.,copialettere,Puccini,Giacomo,"Maestro Puccini.
 Albergo Giappone. Livorno.
 Felice ricevendo notizie nuovo trionfo sua Manon mando cordiali felicitazioni saluti.",positive,negative,positive,joy
-390,CLET000383,4.0,5.0,1895.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Teatro. Fiume.
-Spero ottimo viaggio lei Signora. Cordiali saluti e cordiali auguri.
-Ricordi",positive,positive,positive,joy
 393,CLET000384,7.0,5.0,1895.0,"Augurio di buon soggiorno a Vienna, sollecitazioni a rientrare per concludere Bohème.",copialettere,Puccini,Giacomo,"Maestro Puccini
 Hotel Stadt Triester    Wien
 Vecchio indirizzo Eisensahitz Berggasse 22
@@ -989,11 +818,6 @@ Da oggi in avanti fino a tuo avviso ti mando il Corriere. Quando avremo la fortu
 Credimi sempre
 tuo aff°
 C. Blanc",negative,negative,negative,sadness
-460,CLET000400,3.0,12.0,1895.0,,copialettere,Puccini,Giacomo,"(R.P.)
-Maestro Puccini
-Torredellago.
-Ancora non so quando andrò Roma ne se potrò effettuare gita che gradirei molto. Urge telegrafi per Sanzo Napoli. Non approvandolo avremo maestro mediocre. Non temo inconvenienti perchè presenzierò io eppure Tito quindi Sanzo andrà come olio. Insisto appena possibile torni in Milano. Siamo gran ritardo. Saluti cordiali.
-Ricordi",positive,both,negative,sadness
 463,CLET000406,29.0,12.0,1895.0,Scelta interprete Musetta per prima rappresentazione Bohème a Torino.,copialettere,Puccini,Giacomo,"Maestro Puccini
 Teatro Argentina Roma
 Per Musetta Torino Bergamin propone Gini Pizzorni se addatta. Telegrafi. Saluti tutti.
@@ -1042,200 +866,6 @@ Ricordi",negative,negative,positive,joy
 Napoli
 Quarta Roma successo colossale. Teatro splendidissimo. Soliti applausi chiamate. Applaudita anche zimarra colla spazzola. Evviva Doge. Raccomando non abusare Carnevalone. Saluti cordiali.
 Ricordi",positive,negative,positive,joy
-499,LLET000268,,,,,lettera,Puccini,Giacomo,"[Senza data]
-
-Caro Giacomo,
-mai ho parlato di collaboratori, quindi tu...sogni-diciamo così.
-La collaborazione col Giacosa venne dal fatto che io fui chiamato a collaborare dal Giacosa stesso
-il quale – come da sua lettera  che tengo-non era dell'avviso di cavare un'opera musicale da Bohème.
-Il 1° atto di M.A. - anzi dell'Austriaca – è stato ridotto così dietro tue indicazioni, quasi perfino sotto tua dettatura, e prima durante la tela, e dopo ad atto completo col quale Tito e io siamo venuti a Torre, e conservo il copione colle note fattevi colla tua penna stilografica.
-Quindi quanto ora scrivi è “fatto nuovo” per usare frase Dreyfusiana e per non dir peggio.
-Ma poiché nessun contratto ci lega noi siamo perfettamente liberi; e così rimarremo optime. Ché, se volessi essere impertinente, potrei, e forse con più verità e migliore giustizia, risponderti consigliandoti di prender tu un buon musicista per collaboratore.
-
-							tuo
-										Illica",negative,negative,negative,sadness
-501,LLET000298,,,,,lettera,Puccini,Giacomo,"Copia
-
-Castellarquato 4 – 5 – 1904
-On.Ditta G.Ricordi & C.
-Prendo atto della vostra in data 3 Maggio 1904 e dichiaro di accettare quanto in essa avete stabilito.
-Ringraziando,
-devotissimo vostro
-(fto) Luigi Illica
-
-NB: L'originale di questa lettera Illica si trova nella posizione “Prince Zilah” No. 6797
-",negative,neutral,positive,joy
-503,LLET000299,,,,,lettera,Puccini,Giacomo,"Carissimo Puccini
-eccomi all'ultimo “bazello” della gran scala delle considerazioni, argomentazioni, cacadubbi e pisciaincertezze.
-Se sarai convinto mi metterò subito al lavoro per ottenere nel colorito del dialogo quella “caratteristica” che noi desideriamo, caratteristica che deve servirci per staccarci con questo soggetto dalla forma di ogni altro libretto.
-Conserverei però ad ogni atto il sistema seguito dal Louӱs per ogni singolo capitolo del suo libro, vale a dire: darei ad ogni atto per titolo un periodo che ne compendia lo svolgersi principale dell'azione per quel sapore che questo breve compendio dà e che ricorda il modo di novellare che tanto prediligevano i romanzatori spagnuoli; vedi Cervantes, vedi Quevedo nel Gran Tacaño, modo seguito anche da Lesage quando appunto volle scrivere un romanzo spagnuolo.
-Così il 1° atto noi potremmo mettergli per titolo:
-“Come e dove Mateo ritrovasse Concha Perez”
-
-1° atto:
-Mi pajono soverchi quei dettagli che tradiscono la preoccupazione di voler rendere l'ambiente e il “caquetage” delle cigarrere, quasi con l'intento di plasmarne dei tipi, farne dei caratteri, descrivere dei personaggi ben bene definiti come se dovessero servire a spiegare qualche cosa nell'”antefatto” o tornarci utili negli atti seguenti, mentre invece nessuna di queste cigarrere ha a vedere col nostro dramma.
-Mi preoccuperei invece della presentazione di Conchita.
-Se si avesse a rendere della Fabrica quel momento così caratteristico della ripresa del lavoro dopo il riposo della mattina? il suono della campana che richiama le operaje? Concha che viene in ritardo e la “surveillante” che le applica la multa?
-Vedi tu! Forse è preferibile lasciare la Fabrica come è ora e impressionare il pubblico col colpo d'occhio dell'insieme e il suo movimento. Certo che la Conchita potrebbe venir presentata al pubblico in modo più evidente, più da “prima donna”.
-Quello che invece è davvero viziosissimo in questo primo atto è il mezzuccio seguito per trattenere in scena Mateo. “Mateo fait signe a l'inspecteur ..... de ne pas l'attendre et l'inspecteur acquiesce.”Ed è talmente mezzuccio che si è costretti subito per riparare a costringere l'inspecteur a doversi giustificare colla surveillante dicendole sottovoce ”C'est parent du Governeur !”
-E questo mezzuccio perché? Per venire alla scena che segue subito, scena anche più viziosa del mezzuccio sfruttato per arrivarvi, voglio dire quella inverosimile presentazione – presente Mateo –che Concha fa di lui alle cigarrere, scena da libretto trent'anni fa.
-Noi non abbiamo invece che a fare attraversare la vasta camerona da Mateo che segue l'ispettore che descrive introducendolo in altre camere.
-Via Mateo le cigarrere rimangono colpite dall'atteggiamento di Concha che ha guardato Mateo con sorpresa senza staccargli mai gli occhi di dosso e seguendolo ancora quando si allontana coll'ispettore
-A Concha le è sembrato di ravvisare in quel visitatore un Signore che una certa volta, in un certo viaggio........etc... E così con più naturalezza Concha presenta Mateo ..... al pubblico.
-Le cigarrere allora possono dire a Concha” E perchè – se é lui – quando ripassa non trovi il modo di farti riconoscere?
-“E saprei come! Risponde Concha. Non avrei che a ricantare la Soledad che mi ha fruttato lo schiaffo del gendarme e l'interessamento del caballero! Sì, perchè una canzone udita sia pure una volta sola dalla bocca della Conchita nessun uomo la dimentica più, nessuno, e per tutta la vita.
-“Avrai un’altra multa se canti.
-Ah questa non sarò certo io che la pagherò!
-Una le dice “Ti auguro che debba proprio essere lui....
-“Silenzio! Dicono le altre. Tornano!
-Conchita canta, Mateo la riconosce. Così eviteremmo quel: Figurez-vous …... etc – e daremmo maggior verità e maggior movimento .... Non solo ma allorché Mateo parla con Concha non ci sarebbe più bisogno di quei commenti sotto delle cigarrere che non dicono niente e messi lì proprio in mancanza d'altro, ma potremmo ottenere un effetto di bisbiglio malizioso col quale le cigarrere sottolineano il dialogo di Mateo e di Concha – bisbiglio significante e logico. E allora la
-O petite étoile filante
-Sortirebbe meglio come “brano di presentazione del tenore”, non più soffocata dal racconto – vieux-jeu – di Concha, brano che potrebbe anche prestarsi magnificamente per chiudere musicalmente l'atto primo, volendolo.
-
-Atto 2°
-“Come una felicità vicina è sempre molto lontana”  
-(Ma qui prima di tutto apro una parentesi per una questione fondamentale anzi capitale sulla quale basa tutta l'azione dell'opera e sulla quale abbiamo discusso rilevandone il pericolo eccezionale che essa minaccia continuamente. Voglio dire l'avversione fisica che Conchita ha di Mateo personalmente e di tutti gli uomini in generale, avversione poco logica, molto inverosimile e tale da eccitare intorno al lavoro un’altra avversione, quella del pubblico.È questo il peccato originale del soggetto, che se nel libro di Louӱs  può parere giustificato siccome  uno studio dal vero, in teatro non ha nessuna giustificazione poiché il pubblico dei teatri non studia e non riflette, vuole solo sentire, vedere e interessarsi.
-Orbene se noi riesciamo a giustificare la misantropia sessuale di Concha noi riesciamo anche ad ottenere quel lampo di idealità così necessaria specie per la musica, idealità che sa mutare il “laido” in “grande”, il “cattivo” in “bello” e fa dell'”orrido” un “tipo eterno” come Mefistofele, Jago etc. etc.
-
-E mi pare di aver trovato!
-Ecco: Concha non ha conosciuto suo padre; sua madre era come è lei cioé una delle tante donne gittate dalla fatalità sulla grande “route du plaisir des hommes”. E sua madre vi trovò la miseria e la infelicità e l'avvilimento. Perché? Perché la madre di Concha ha amato; non è stata solo la cortigiana, ma la innamorata.
-È naturale che Concha senta fino da bimba, aizzata dai racconti dolorosi della mamma, orrore per gli uomini, l'odio per l'amore.
-“Ah, no! Mamma, io non soffrirò mai perché non amerò mai, mai, mai! Non solo ma il piacere che è la terribile e fatale insidia, il vero pericolo, non sarà per me che un'arma, un'arma per la vendetta poiché io ti vendicherò, mamma! Guai a quell'uomo!!...
-Così tutto è logico, e quello che potrebbe parere inverosimile diviene logico, e quello che oggi a noi appare avvolto nella nebbia del dubbio diviene vera verità e quello che prima faceva sembrare Concha antipatica ora la trasforma in eroina.
-Vi è un pensiero forte che anima e caratterizza questa creatura che da un personaggio volgare diviene un “tipo.”)
-2° Atto – dunque- col titolo:
-“Come una felicità vicina è /o sia / sempre molto lontana”
-La scena rappresenta la casa di Concha; la scaletta laterale che conduce ad una piccola porta con specula sporgente fatta alla moresca con legno di cedro fantasiosamente arabescato.
-
-Dentro vi è uno di quei tanti altarini dedicati o alla Madona del Pilar e alla Madonna d'Atocha. La madre è in scena, accudisce a qualche faccenda domestica. L'appartamentino delle due donne è – come lo descrive Louӱs – in alto; bisogna salire per una scala un po' faticosa per arrivarvi; è l'abitazione caratteristica, ma poco comoda di donne quali Conchita e sua madre.
-Dal basso (si suppone fuori nella strada, presso la porta di entrata) la voce monotona di accattone chiede l'elemosina. Certo è qualcuno che passa per la via. Poi l'accattone tace. Certo chi è passato ha tirato via senza dare un maravedis. Suona una campana fuori dalla chiesa vicina. È il Vespro! La madre di Concha si fa il segno di croce; sale la piccola scala; apre la porta colla specula; aprendo lascia intravvedere il piccolo altare; rinchiude la porta e si sente la voce della madre di Concha pregare; un borbottio di preghiera monotona, uniforme.
-
-Ancora si fa sentire la voce dell'accattone che strilla. Sono Concha e Mateo che questa volta non solo passano, ma si fermano per entrare in casa. Lo si capisce dal breve dialogo (storico che a molti ha servito per dipingere il carattere degli spagnuoli, fieri ed hidalghi sempre anche se in bolletta). La voce di Concha osserva beffarda all'accattone che potrebbe benissimo prima di chiedere agli altri vendere quell'orologio che con tanto orgoglio espone agli sguardi di tutti.
-L'accattone-hidalgo risponde con fierezza spagnola: Señorita, io vi ho domandato l'elemosina, non un consiglio. Ma subito la voce dell'accattone si fa sentire tutta lieta dire un calendario di santi e profetizzare e invocare un vocabolario di buone fortune. Mateo ha fatto l'elemosina.
-La voce di Concha: perché quella peseta...?
-La voce di Mateo: perché oggi mi sento vicina la felicità.
-E le voci cominciano ad avvicinarsi: si sentono salire le scale, crescere di intensità e di evidenza fino alla voce di Concha che esclama.
-""Siamo arrivati. Sto qui!
-
-La madre ha continuato a pregare.
-
-Concha apre la porta di casa per introdurre Mateo, sente sua madre che prega, pone il dito sulla bocca e fa cenno a Mateo di parlare piano, di non disturbare la mamma che prega. E qui abbiamo (breve, brevissima) la scena deliziosa del Louys, così vera:
-
-“J'étais devant elle, dans un fauteuil de bois dont.......etc.
-
-Soudain elle s'assit sur mes genoux, mit ses deux mains à mes épaules et me dit:
-
-“C'est vrai?”
-
-Instinctivement, j'avais refermé mes bras sur elle et d'une main j'attirais à moi sa chère tête devenue sérieuse; mais elle devança mon geste et posa vivement elle-même sa bouche brûlante sur la mienne en me regardant profondément.
-
-Orbene questa scena rapida può, in un lavoro dove le scene a due eccedono, dare una varietà e riuscire in teatro veramente nuovo [sic] ottenendo il voluttuoso “sottovoce” di due amanti, il loro bisbiglio, il loro sospiro, sottovoce a fior di labbra, leggerissimo, pieno di fremiti, da far correre un brivido di sensualità nel pubblico se reso dagli artisti con tutta la evidenza della realtà, mentre il borbottio della madre lo rende logico.
-
-Scena rapida ma impressionante che offre un gran distacco dal duettino che la precede, voglio dire mentre salgono la scala.
-
-Sono ancora del mio parere per quello che riguarda il portafoglio e la violenza di Conchita contro Mateo.
-
-Se noi evitiamo qui e la violenza e la presenza di Mateo ci salviamo da una ripetizione un po' odiosa. Con Mateo in scena respinto – presente la madre – ci ritroveremmo nel quadro del “patio” in una pressoché uguale situazione quando cioè Conchita respinge Mateo – presente il Morenito. Perché una scena violenta? È già così violento tutto il libro, qui! “Pantin” vuole anche significare “burlato, schernito, giocato”. Nel “pantin” chi riflette al valore della parola vi riesce a sentire le risa e le beffe che il povero pantin eccita! Se noi riusciamo a dare in questo secondo quadro quest'altro punto di vista del “pantinismo umano” avremo spezzata l'uniformità e l'uguaglianza di una azione drammatica resa sempre ripetutamente immobile dalla fatalità dei due soli personaggi che costituiscono il dramma.
-
-Si tratta solo di cambiare nel libretto il “Demain je serais tienne,
-
-mon amant !...
-
-Che Concha dica: “fra poco, quando anche questo sole che arrossa tutta la Giralda si sarà spento, vieni a prendermi. Sarò tua, sempre, mio amante”.
-
-Mateo esaltato, pazzo d'amore, vorrebbe baciarla. Concha gli sfugge e chiama la madre e le presenta Mateo.
-
-Mateo dà il portafogli alla madre.
-
-Via Mateo Conchita vede sua madre e il portafoglio. In questa scena pochi rimproveri della Conchita – (alla quale quel portafoglio bruscamente ricorda le condizioni sue e di sua madre) – pochi rimproveri della Conchita lasciano capire al pubblico, fosse pure non ben chiaramente, la fatalità della vita di quelle due donne. La Conchita si trasforma! Richiamata a sé stessa torna a rivivere del suo odio per tutti gli uomini. Deriderli, giocarli tutti! Schernirli tutti! Ammattirli di amore per poterli odiare meglio! Far balenare innanzi al loro pensiero tutti i misteri del piacere perché poi debbano meglio sentire tutte le torture di una realtà fatta di disinganni e dolori. Verrà....E non mi troverà più!
-
-E ride, e vuole che anche sua madre rida! Riso nervoso e cattivo che noi riudiremo nel patio. Come dissi l'altra volta si possono pel finale di quest'atto sfruttare le vicine di Concha, femmine come lei, femmine che abitano come Concha quella “maison inquietante” quei piccoli e angusti abbaini dove alla porticina che serve di ingresso “une carte de femme sans profession est clouée”. E perché – come essendo dell'autentico spagnolo, eccezionalmente spagnolo – non verrebbe Mateo a prendere Concha con una di quelle meravigliose serenate sussurrate che hanno fatto definire la Spagna “le pays des serenades”? Nella Carmen non ve ne sono di serenate.
-
-La serenata sussurrata in basso; le vicine che ridono; Mateo che sale ….. e trova Concha fuggita via. Pantin ridicolo e beffato; pantin da commedia per diventare poi nel “patio” pantin da tragedia.
-
-Atto 3°
-
-Dove e come Concha Perez rivedesse Mateo
-
-Giustissima la tua osservazione che a Mateo manca sempre l'occasione di una romanza, la quale romanza non solo soddisfa la vanità del tenore ma, dato un dramma così violentemente passionale, così poco “tenore” pel tenore (intendo alludere non alla parte di tenore ma al personaggio  che si presta molto al ridicolo), viene in certo qual modo a spiegare al pubblico il carattere del personaggio e a rendergli ben evidente, persuadendolo, che quello che può sembrare ridicolo non é che una ragione di suprema pietà umana.
-
-E la romanza la metterei qui. E la metterei qui perché ce la mette anche il libro del Louӱs. E la metterei qui perché qui viene a spiegare l'azione, perché eminentemente passionale, veramente “tenore”. Ecco: “...j'étais guidé de ville en ville, non pas par ma fantaisie, mais par par une fascination irresistible et lointaine dont je ne doute pas plus que de l'existence de Dieu.” È il destino che riduce Mateo lo schiavo della sua passione facendolo agire, presso a poco come succede in un magnitizzato [sic], inconsapevolmente, suggestionato.
-
-Ed eccolo prima che sia l'ora dello spettacolo prendere posto – solo – nella sala del Baile, irrequieto, pieno di ansie! Mateo interroga il camarero. No, non si è ingannato non l'hanno ingannato i suoi informatori; la Conchita da cigarrera si è messa a fare la danzatrice. La Conchita è anzi la celebrità, l'affare dello stabilimento! È lei che chiama il pubblico! Il suo modo di “ballare”, le sue pose, le sue movenze, il suo corpo entusiasmano il pubblico. È il “successo del giorno”! Perfino gli stranieri se ne interessano! Vi sono degli inglesi che vengono appositamente da Cadice per vederla a danzare. “Ma siete venuto troppo presto. - osserva il cameriere.
-
-Ma Mateo saprà bene aspettare! E qui possiamo trovar posto per la così detta romanza, questa rapida conoscenza col cameriere può giustificare dopo l'informazione del “ballar nuda davanti agli inglesi” .
-
-L'idea del paravento dietro al quale la Conchita sorpresa da Mateo si riveste e la si sente rispondere, discutere e nella violenza del dialogo esce semivestita, allacciandosi sottana e busto, è bellissima pel movimento della scena e per la naturalezza e per la verità ma offre anche alla nostra riflessione di dover supporre che se dietro a quel paravento Conchita si veste, dietro a quel paravento Conchita si sia anche svestita.
-
-Quando?  
-
-Non c'è il tempo per questo; e anche ci fosse il paravento diverrebbe una ripetizione.
-
-Si può invece del paravento lasciare la porta aperta del camerino dove le ballerine si vestono e si svestono e la Conchita potrebbe benissimo entrare ed uscire allacciandosi tutto quello che si vuole e dare tutto il movimento e la naturalezza che noi desideriamo al momento scenico.
-
-(Queste mie osservazioni potranno sembrarti un po' meschine, un po' troppo Beckmesser. Ma che cosa importa se così io posso dimostrarti tutto lo studio coscienzioso che ho fatto non solo del soggetto ma anche dei tuoi pensieri, e il mio vivissimo desiderio di poter arrivare all'altezza della tua convinzione nell'”opera”, che già vedi e senti, convinzione che se non del tutto è riuscita a dissipare i miei dubbi, per la tua coscienza di senso teatrale ha di molto attenuato il mio pessimismo.
-
-O un gran successo o meglio guardare passare il mondo attraverso alle vetrine dei negozi che sono la esposizione più bella, permanente e gratis, senza i presidenti Mangili e i segretari Zorzi.) La romanza qui – di carattere supremamente passionale – servirebbe anche a spiegare la lacuna fra il 2° e il 3° atto; non solo, verrebbe ad arricchire questo atto, a renderlo più vario, più vivo; atto che così renderebbe più logico il personaggio del “pantin”; atto che non resterebbe più troppo uniformemente chiuso dentro a  ue duetti.
-
-ATTO 4°
-
-Come una felicità /o “la felicità” / creduta lontana possa essere vicina!
-
-Qui non è più “la femme et le pantin” perché i pantins divengono due, uno che parla e l'altro che non parla, uno troppo loquace e l'altro completamente alalo. Il morenito è un pantin d'altro genere. Sono perfettamente del tuo avviso di non farne un baritono. Sotto ci si vedrebbe troppo il giustacuore ricamato di Escamillo. Ma farlo tacere se non è pantin è mannequin!
-
-Si potrebbe già trovare modo di farlo cantare nel 3° atto fosse pure soltanto come accompagnamento di una danza.
-
-Colla romanza nel 3° atto l'unità del 4° è quasi necessità.
-
-I capelli grigi, la tazza di cioccolatte non sono né situazioni, né colorito di scena o di ambiente. I primi dipendono dal trucco più o meno abile dell'artista, il 2° anche se bollente forse lascia freddo il pubblico.
-
-Così invece non è né del chiaro di luna, né del vento che commuove alberi, rami e fronde.
-
-Noi possiamo avere entrambi questi due effetti in un atto solo, atto che riunendo le due situazioni che separate possono essere pericolose riunite si salvano reciprocamente, non solo, ma una giova a dar risalto all'altra per quella benedetta legge di antitesi che é uno dei più scuri effetti di palcoscenico.
-
-Trovare il modo di riunire i due duetti! Ecco la questione
-
-Cioè: trovare il modo di portar via il Morenito, logicamente, evidentemente, senza che lo scomparire di questo personaggio abbia a troncare la scena, sviare l'attenzione del pubblico, distrarlo.
-
-Credo di aver trovato. Il mezzo di riuscirvi ce lo offre quella “navaja” alla quale tu hai pensato. La scena vuole un po' mutata e meglio spiegata nell'atto 3°. Mateo nell'atto antecedente dice a Concha (come nel libro) che la casetta è isolata, fuori di città, sepolta dentro il verde dei prati e degli alberi.
-
-Invece di mettere la cancellata in primo piano la si mette lateralmente, così:
-
-[disegno]
-
-Abbiamo il verde in scena e il verde come sfondo, vale a dire si può ottenere in scena e fuori l'effetto del “vento”.
-
-Luna durante la prima parte dell'atto; il vento nella seconda parte, oscurità che va crescendo di intensità fino alla fine mentre invece scoppia, pure sempre crescendo, il fragore trionfale del duetto ultimo – come tu hai pensato – trionfale perché questo duetto è appunto il trionfo dell'amore.
-
-Veniamo ora al punto di unione dei due duetti, alla loro naturale e spontanea passione, alla “sutura” senza lasciare veder la ricucitura.
-
-Mateo minaccia; Concha ride delle sue minacce, non crede, lo aizza, lo eccita ingiuriandolo. È troppo avvezza a crederlo pantin per dover temerlo come uomo: Mateo leva la navaja, la apre, la agita alto...Concha bacia Morenito.
-
-“Questa bocca di giovane sì che sa di primavera e ha l'odore dell'amore!”
-
-Mateo dà in urlo terribile e – alla spagnuola – lancia la navaja! All'urlo di Mateo risponde uno strillo di terrore. È il Morenito che strilla preso da spavento e da raccapriccio, e corre via, scappa gridando. Conchita, colla agilità della persona avvezza alla mobilità della danza ha rapida schivato il colpo con un pronto moto della testa. Ma Conchita ha sentito la morte passarle vicina, sferzarle coll'aria violentemente smossa il viso.
-
-Conchita non ride più! Mateo guarda con occhi larghi la fanciulla, occhi implacabili. Conchita pure con occhi larghi, sorpresi, guarda il pantin ad un tratto rivelatosi uomo.
-
-“Tu dunque vuoi amare fino alla morte”
-
-“Fino alla morte...alla morte...sì. E tu morirai! Tu devi morire! La morte mi darà il tuo corpo che la tua vita mi ha sempre negato!”
-
-Lentamente, gli occhi sempre larghi e fissi in Mateo, Conchita si avvicina alla cancellata, lentamente, rassegnata e domata, altera e fiera sempre eppure obbediente, umiliata e vinta, ma superbamente.
-
-“Uccidimi dunque!”
-
-E apre la cancellata.
-
-Violenza terribile ma non schiaffi, per carità, questo vero della vita è l'inverosimile del teatro.
-
-La scena pericolosa col Morenito troncata bruscamente viene non solo escamotée ma ci offre un vero colpo di scena: non tronca nessuna situazione ma la continua accrescendone la vigoria; invece di scemarne l'interesse lo ravviva, lo rinforza, e il pubblico violentemente sottratto da quella situazione angosciosa – senza avere il tempo di accorgersene – si trova nella passionalità la più forte e umana poiché in quell'ultima scena tutto il pubblico diviene Mateo e la scena prima col Morenito non avrà così servito che come una benefica antitesi per farci arrivare al più alto grado e dell'effetto musicale e dell'effetto scenico.
-
-Che duetto! Poche parole della Conchita lasciano capire la ragione (quella che deve servire a giustificare l'odio di Concha pel sesso maschio, il suo misantropismo) della condotta di lei, spiegazione evidente, logica, ammissibile del suo carattere, e quindi il supremo trionfo dell'amore, della natura.
-
-L'Ispettore della Fabrica per quanto abbia poche parole bisogna farne un tipo come abbiamo fatto, non so, di Alcindoro. Basterà un episodietto di multa o altro... Ma tutto deve essere tipico. Abbiamo noi creato questo mondo di macchiette: riaffermiamolo. Così il “camarero” del 3° atto deve essere una parte per un Gianoli. È un tipo di cameriere chiacchierone, di quelli che conversano cogli avventori; che servito uno fosse pure una volta diviene intimo, lo serve senza aspettare l'ordinazione poiché egli sa i gusti di chi serve il quale diviene piuttosto l'avventore del cameriere che del café. È un chiacchierone che accompagna le sue chiacchiere con una vivacissima mimesi. Parla della Concha? Ed ecco che egli si mette in posa di bolero o di fandango proprio come Fugère nell'ultimo atto di Bohème. Indiscreto per necessità di mestiere mette della malizia dovunque, così parlando dell'entusiasmo degli inglesi per la Conchita – senza alludere alle rappresentazioni segrete – il cameriere le trova non solo ammissibili ma lodevoli. “Figurate voi...una donna?... Ma che donna!...Una leonessa metà tigre e metà serpente che quando nella “jota” deve alzare il piede sinistro per portarlo in appoggio del destro,  con un rapido striscio, così!, prende improvvisamente uno slancio, così! E torna con un energico sussulto delle reni, così!, alla posizione!.. Leonessa, tigre e serpente, parola d'onore!” Ed eccita vieppiù Mateo. Ad ogni “così!” il camarero mostra coll'esempio le diverse posizioni e i diversi movimenti!... E Mateo ne è torturato! Degli inglesi che vengono poi, di uno di essi si può fare una macchietta. Si può tipizzare uno degli avventori. Si può far tutto quello che vogliamo per ravvivare, creare un mondo di cose vive intorno ai nostri due protagonisti troppo soli nel loro dramma onde, pur rimanendo soli, al pubblico sembrerà di vederli, di scorgerli non isolati come ora sono ma come se dentro ad una folla di esseri, di cose, di luoghi messi in movimento da quella gran febre [sic] che è la vita.
-Ho buttato giù alla carlona. Qua e là potevo esporre meglio, essere più decorativo. Ma tu nel mio impeto vedrai meglio, molto meglio il “decorativo” che vi manca, e il resto.
-fto. Tuo Illica",negative,negative,positive,sadness
 505,CLET000483,4.0,10.0,1894.0,Riferisce che Giacosa manderà a Puccini ogni giorno il lavoro fatto sul libretto di Bohème.,copialettere,Giacosa,Giuseppe,"4 ottobre     4.
 Carissimo,
 Sig M°
@@ -1268,47 +898,6 @@ Perciò la prego favorirmi a casa mia, oggi stesso, per mezzo giorno preciso, pe
 Cordialmente e con alta stima
 Suo Aff.\mo/ 
 Giulio Ricordi",negative,negative,negative,fear
-515,CLET000515,,,,"Soluzione per problema versi Schaunard, notizie del 4° atto Bohème; richiesta di fogli di partitura per poter procedere con la stampa e la riduzione.",copialettere,Murger,Henri,"Mercoledì
-Caris.° Puccinone
-
-Le nostre ultime si sono incrociate – e ricevetti jeri sul tardi la sua, mentre già ero inquieto essendo privo di notizie. Finalmente Laus Deo, il Doge si è fatto vivo. Ho subito comunicato ad Illica quanto mi scrive. Decisamente questo Schaunard è uno seccatore. e tutti quanti vi ci rompiamo la testa! - Senta… ha lei una buona idea musicale? la scriva, vi metta sotto parole….. puccinesche….. e poi si rifaranno. Credo sia il miglior modo di venire ad una soluzione, non riuscendo ad intendersi per lettera.
-
-Schaunard
-   Io vengo colle frittole
-   A far fiorire agosto
-   Senza gettar le tegole…
-Rod.   Basta!
-Marc.   Minchione!
-Col.      Rosto!
-Schaun.  Dico e sostengo il fisico
-   Col cazzo imbandierato
-   Come se fosse un manico….
-Col.   Zitto!
-Rod. e Mar.   Risparmia il fiato!...
-Schaun.    Signori, non è il modo!
-Rod.   Ma taci, questo è brodo!
-Schaun.  Signori!
-Col.    Zitto!
-Marc.    Basta!...
-I tre Col culo fai la pasta!
-   (Carducci)
-
-E… siamo al fine?... quando mi manda un po’ di partiture da consegnare a Carignani?....
-Mi spiace assai che questa faccenda Schaunardesca ritardi ed intoppi: ma si può aspettare per ultimo: se già havvi partitura pronta, me la mandi. Così guadagnerò tempo sulla riduzione, perché non posso cominciare ad incidere il 4° Atto, fino a che non vi sia il brano che ci dà tanti impicci. Farò lavorare anche di notte, per guadagnare il tempo perduto.
-Lei è…. persino troppo buono.
-S. M. De Lucia non sa dunque se il 3° Atto è acuto, o no?...
-Perché non ha preso Lei un esame, per vedere se è capace a scrivere per voce di tenore?....
-Del 3° Atto per ora ne ho una sola copia, che è occupata in copisteria per mettere all’ordine la partitura. Quindi non posso privarmene. Ma anche l’avessi disponibile, mi spiace il dirglielo, non la manderei fuori – è cosa troppo gelosa e delicata – senza dire dei pettegolezzi che nasceranno. Le basti il sapere che avendo mancato la S.\a/ Storchio per sentirne al voce io le dissi che desideravo un’artista con acuti facili. che potesse sillabare facilmente anche in su, e fosse spigliata in scena-. Null’altro…. che Ella sa come sia muto in queste cose. Ebbene subito dopo da Sonzogno si sapeva tutto questo, non solo: ma Leoncavallo andò spifferando che conosceva il libretto, che era una porcheria! … che nulla vi era del Murger: che aveva pronta l’opera, e che lui ci avrebbe fatto vedere cos’è la Bohème!
-Dar fuori una parte? …mai più! …e tanto meno a un De Lucia a Napoli, dove mezz’ora dopo tutta la camorra lo saprà, ed anche la conoscerà!.........
-A tempo opportuno consegnerò alle Imprese le parti, con obbligo di custodirle: e lo faranno certo, perché è nel loro interesse: così si è fatto anche col Falstaff.
-Non abbiamo bisogno di mettere in piazza la Bohème!!... che troppe sono le canaglie – e così nessuno avesse comunicato dei versi, che mi dicono esservi nel D.\n/ Chisciotte un articolo contrario!! ed è facile immaginarsi per opera di chi!!
-Niente – niente! Alla larga!
-Sono sotterrato sotto al lavoro: fra 3 o 4 giorni parto per Roma: non avrò prima un po’ di pasto di partitura?... A quando il ritorno? …. L’aspetto proprio ansiosamente: dobbiamo anche divertirci a mettere i metronomi!!! …. Io ho fatto tutte le indicazioni tecniche al 1° pezzo del 4°, che furono approvate da Illica: ma desidero le veda Lei, prima di incidere.
-Notizie, notizie - e la povera nostra Mimì è spirata?... mi viene il male di pancia dalla curiosità di udire ed ammirare. Quel principio di 4° è stupendo. Sono qui colla bocca già aperta per urlare: Viva Puccini – Gloria al Doge. Non mi lasci smandibolare.
-Di fretta cordialissimi saluti a tutti.
-Suo aff\mo/
-Giulio Ricordi
-//Pregasi rimandare Partitura Banda Codivilla, sulla Manon.",negative,negative,negative,anger
 524,CLET000516,14.0,6.0,1913.0,"Fanciulla verrà data al Metropolitan; dubbi riguardo libretto in collaborazione di D'Annunzio. Riguardo affare Kutznezoff, bisognerebbe dare Manon a Parigi, proposte di cantanti.",copialettere,Puccini,Giacomo,"14.VI.1913
 
 Mio caro Giacomo,
@@ -1346,10 +935,6 @@ Vedo che ha schivato per miracolo la gattabuja! Puccini malfattore e colla fedin
 Venga presto! - lo aspetto ansiosamente. La stringe la mano
 l'Aff Suo
 Giulio Ricordi",negative,negative,negative,sadness
-541,CLET000534,31.0,1.0,1893.0,,copialettere,Puccini,Giacomo,"Puccini
-Teatro Regio. Torino.
-Evviva. Un abbraccio con tutto il cuore.
-Ricordi ",positive,positive,positive,joy
 543,CLET000535,2.0,7.0,1896.0,Riguardo la stagione in cui dare Bohème a Firenze.,copialettere,Giacosa,Giuseppe,"2.7.96
 
 Caris.° Puccini
@@ -1731,24 +1316,10 @@ A Tamagno non ci pensi: invece riprenda il treno Tosca, almeno per mettere ancor
 Spero si saranno divertiti a Venezia e che ora si troveranno tutti in eccellente salute nelle delizie capuane di Torredellago- Una affettuosa stretta di mano
 dal Suo 
 Giulio Ricordi.",negative,negative,negative,sadness
-718,CLET000578,9.0,6.0,1897.0,,copialettere,Puccini,Giacomo,"9 Giugno 1897.
-Caris.° Puccini
-Alle mie poche righe d'jeri ha già fatto risposta la sua stessa data e con molto piacere leggo migliori nuove della Sig\a/ Elvira, la quale desidero sapere presto completamente ristabilita.
-Mi riesce nuovo il Teatro Kroll!!...ma da chi ha udito simile notizia?....
-Non ho certo bisogno di giurarle che spiace altrettanto a Lei, quanto a me, le interruzioni alla Tosca: molto, moltissimo me ne spiace!!.
-ma caro Puccinone, bisognava pensarci prima....rinunciare per ora all'estero, come era in principio la mia idea, appunto perchè prevedeva gli alt che sarebbero capitati alla Tosca. Ma ora che, con ingenti sacrifici materiali (e per me anche morali) si è data la spinta alla Bohème, bisogna subirne le conseguenze- e proprio non è il momento di non pagare di persona.
-Tutti i ragionamenti ch'Ella può fare, già li feci io: ma innanzi ai fatti, ed alle loro necessarie conseguenze, non c'è cristi che tenga!!. E' impossibile che l'autore non faccia atto di presenza a Berlino, Vienna e Londra, le tre pietre angolari dell'edificio estero!.. sarebbe un danno grave all'opera!. Bisognava, ripeto, non pensare all'estero!- ma lei non era di questo parere, e probabilmente ebbe ragione: io ero d'opposto parere e probabilmente avevo torto.
-Le confermo che Tito parte oggi: da Berlino le telegraferà, perché Ella vadi a momento opportuno senza perdere tempo prezioso. Ma le confesso che ove avessi potuto supporre che l'autore giudicasse superflua la di lui presenza, non lascierei nemmeno partire Tito, che anche noi abbiamo impegni non pochi, senza dire che la di lui assenza è per me causa di maggiori occupazioni.
-Mi mandi presto ottime notizie loro = cordialissimi saluti e cordialissima stretta di mano dal Suo Aff\mo/
-Giulio Ricordi",negative,negative,negative,sadness
 722,CLET000579,12.0,6.0,1897.0,Notizie di Tito da Berlino riguardo prova.,copialettere,Puccini,Giacomo,"Maestro Puccini.
 Torrelago (Viareggio)
 
 Tito assistette buona prova. Suonò poi tutta opera direttore orchestra. Prima Martedi ventidue. Necessario parta Martedì giorno quindici arrivando Berlino Mercoledi sera. Spero tutti bene. A rivederci.
-Ricordi",positive,positive,positive,joy
-725,CLET000580,23.0,6.0,1897.0,,copialettere,Puccini Bonturi,Elvira,"Elvira Puccini
-Stabilimento Bagni. Levico
-Esito magnifico. Felicitazioni. Speriamo loro viaggio salute ottime.
 Ricordi",positive,positive,positive,joy
 727,CLET000581,6.0,7.0,1897.0,"Invio di denaro, notizie su conclusione affari per dare Bohème.",copialettere,Verdi,Giuseppe,"Assicurata   6 luglio      97
 
@@ -1895,19 +1466,6 @@ La questura non voleva rinnovare il permesso perché sul vecchio mancava la firm
 Torrelago.
 Diciasettesima Berlino con Bellincioni. Trionfo colossale. Teatro zeppo rimandata gente. Telegrafi quando verrà Milano per partire Vienna con Cricrì. Cordiali saluti.
 Ricordi",negative,negative,negative,joy
-797,CLET000596,26.0,9.0,1897.0,"Invio di 400 fiorini, info sulla compagnia che eseguirà Bohème a Vienna.",copialettere,Alinari F.lli,,"26 7mbre    97
-Caro Puccini, 
-
-Ricevo stamane la cara tua del 24: essendo oggi chiuse le Banche ti manderò domani il chèque richiestomi di fiorini 400.- in busta racc.
-Il S\r/ Tito ha telegrafato jeri sera che il complesso che deve eseguire la tua Bohème è buono, anzi migliore che quello di Berlino, per cui siamo certi che il successo sarà tale da sbalordire e da obbligare i Viennesi ad udire la Manon all'Imperiale. Sarebbe una bella vittoria!
-A proposito di vittoria è vero che La Bohème N°2 ha fatto fiasco ad Amburgo?
-Costì dovete saperlo: qui il Secolo tace!
-Per posta racc. ti mando i soli due ritratti Alinari che teniamo in magazzino: se te ne occorrono altri potremo farli venire da Firenze, ma non si arriverebbe in tempo a spedirteli.
-In attesa d'un lungo ed interessante telegramma dopo la 1\a/ gradisci gli auguri e gli affettuosi saluti di tutti noi.
-Credimi sempre
-Aff° tuo amico
-C. Blanc
-",positive,negative,positive,joy
 801,CLET000597,3.0,10.0,1897.0,Successo Londra.,copialettere,Puccini,Giacomo,"Puccini.
 Hotel Bristol. Wien.
 Felicitazioni trionfo Londra augurando simile Vienna. Saluti cordiali.
@@ -2016,27 +1574,10 @@ Roma
 Lieti annunciarle grande successo Bohème Cairo Oporto Cremona. Speriamo ricevere buone notizie Argentina
 Cordiali saluti
 Ricordi",positive,positive,positive,joy
-853,CLET000612,19.0,1.0,1898.0,,copialettere,Puccini,Giacomo,"Ricordi editore per Puccini.
-Roma.
-Molto contenti notizie sperando Musetta passi senza musonerie auguriamo trionfo campidoglio adrittura. Spero rivederla presto lieto anche per trionfi cinegetici e tutto Toscano. Saluti cordiali.
-Ricordi",positive,positive,positive,joy
 855,CLET000613,12.0,1.0,1898.0,Successo Bohème a Torino e Roma.,copialettere,Puccini,Giacomo,"Ricordi editore per Puccini.
 Roma.
 Evviva dunque a Doge Imperatore pel trionfo romano e per quello torinese verificatosi jersera con successo superiore prima volta. Mi congratulo con tutti coloro concorsero splendido esito. Però comincio ad averne abbastanza allori bohemiani che se non soffocano autore ammazzano povero editore esausto continue acclamazioni Doge. Saluti cordiali colleghi commissione. A rivederci presto.
 Ricordi",negative,negative,negative,joy
-857,CLET000614,,,,Poesia scherzosa che esorta alla composizione di Tosca ed a recarsi a Parigi.,copialettere,Puccini,Giacomo,"Mercoledì-
-Spedisco con cassetta - la vaga trappoletta
-E non saran mai tropi - se prenderà dei topi
-                                      in grande quantità-
-Il tempo così bello - farà che qualche uccello
-E non già qualche toppo - col formi dal schioppo
-                                              Ella fulminerà!-
-Spero che la natura - ispiri ... partitura
-E quando l'aria è fosca - a caccia della Tosca
-                                  Con zelo grande andrà-
-Se vuol essere gentile - ai primi dell'Aprile
-(E dubbio non ne metto) - inforcherà il diretto
-                                            Ed a Parigi andrà!",negative,positive,negative,sadness
 859,CLET000615,14.0,3.0,1898.0,Riguardo a cantante Nevada (?),copialettere,Puccini,Giacomo,"24.3.98
 Caris. Puccini
 
@@ -2122,10 +1663,6 @@ Ricordi",positive,positive,positive,joy
 898,CLET000625,14.0,6.0,1898.0,Trionfo esecuzione a Parigi.,copialettere,Puccini,Giacomo,"Puccini.
 35 Rue Cambon. Paris.
 Vivamente commosso importante suo trionfo ma più ancora per suo affettuoso telegramma. Mando entusiastiche felicitazioni nome tutti ed augurio continui splendida via onore suo ed Arte nostra. Abbracciola tutto cuore.
-Ricordi",positive,positive,positive,joy
-900,CLET000626,16.0,6.0,1898.0,,copialettere,Puccini,Giacomo,"Puccini.
-35. Rue Cambon. Paris.
-Viva. Viva. Viva. Buon pranzo oggi dal Mago che Ella conquisterà completamente. Saluti cordiali tutti.
 Ricordi",positive,positive,positive,joy
 902,CLET000627,19.0,6.0,1898.0,"Invio di mille Franchi, partenza per Martedì.",copialettere,Puccini,Giacomo,"Giacomo Puccini.
 35. Rue Cambon. Paris
@@ -2312,11 +1849,6 @@ D'incarico del Sig\r/ Com. Giulio ti rimetto quì accluso la somma di
 Gradisci i più cordiali saluti di tutti e quelli affettuosi del
 tuo aff° amico
 C. Blanc",positive,both,positive,joy
-980,CLET000650,9.0,12.0,1898.0,,copialettere,Puccini,Giacomo,"(RP) Puccini
-Torre del Lago
-Avendo premura vederti pregoti telegrafarmi quando sarai Milano.
-Saluti affettuosi.
-Tito",negative,negative,positive,sadness
 982,CLET000651,1.0,2.0,1899.0,congratulazioni,copialettere,Puccini,Giacomo,"Ricordi editeur pour Puccini.
 12 Rue Lisbonne.         Parigi
 
@@ -2353,10 +1885,6 @@ Carissimo amico,
 In riscontro alla grad tua di jeri mi spiace che tu non abbia avvertito la Casa della richiesta che ti era stata fatta per la Bohème al Carlo Felice di Genova. Noi pure per parecchi giorni ci rifiutammo, ma poi essendosi intromessa quasi tutta l'Aristocrazia di quella Città abbiamo dovuto cedere; ma però non diamo lo spartito, benché si tratti di beneficenza, a nolo gratuito, ma bensi [sic] verso pagamento di una discreta sommetta e per sole 4 o 5 rappresentazioni. Tanto per tua regola e pel caso che tu voglia trovare modo di lenire la tua risposta pel detto affare.
 Gradisci i cordiali affettuosi saluti di tutti noi, in modo particolare dell'eg° ns S\r/ Tornaghi e del tuo sempre aff° amico
 C. Blanc",negative,negative,negative,sadness
-1003,CLET000656,28.0,3.0,1899.0,,copialettere,Puccini,Giacomo,"Puccini
-Torrelago
-Riuscii soddisfare mio tuo desiderio. Barrère annunciami tua nomina. Felicitazioni nome tutti noi.
-Tito",negative,negative,positive,joy
 1005,CLET000657,6.0,4.0,1899.0,Pagamento mensilità; aggiornamenti sulla Bohème a Pisa.,copialettere,Puccini,Giacomo,"6 aprile 99
 Caro Puccini, 
 
@@ -2407,14 +1935,6 @@ Aff\mo/ Suo
 Giulio Ricordi
 
 E matrimonio Illica?...",negative,negative,negative,sadness
-1024,CLET000662,3.0,4.0,1899.0,,copialettere,Puccini,Giacomo,"Maestro Chevalier Puccini.
-Torrelago
-Merci souhaits. Bonne Saintange. Compliments tous compris Tosca. Au revoir.
-Richord",negative,negative,positive,joy
-1026,CLET000663,,,,Successo Bohème Londra.,copialettere,Puccini,Giacomo,"Maestro Puccini.
-Torrelago.
-Bohème Londra trionfissimo. Spediamo posta telegrammi ricevuti. Nostre felicitazioni Doge. Speriamo tutti buona salute.
-Ricordi",positive,positive,positive,joy
 1028,CLET000664,5.0,7.0,1899.0,"Successo Bohème a Londra, per Tosca la Darclée chiede compenso altissimo. Esorta a completare l'opera Tosca nonostante i ritardi di Giacosa.",copialettere,Hohenstein,Adolf,"5.7.99.
 
 Puccini carissimo.
@@ -2443,11 +1963,6 @@ Giulio Ricordi",negative,positive,negative,joy
 Torrelago.
 Pavone e Gigi Origoni telegrafano da Londra. Seconda Bohème confermato pienamente successo. Entusiastiche chiamate ogni atto. Teatro pieno. Comunicate Puccini. Ecco fatto con saluti cordiali.
 Ricordi",negative,negative,positive,joy
-1041,CLET000666,13.0,7.0,1899.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Torre del Lago
-Tonino partito ora ottima salute
-Cordiali affettuosi saluti tutti noi
-Blanc",positive,negative,positive,joy
 1044,CLET000667,15.0,8.0,1899.0,Probabili difficoltà per scrittura Broglio; combinare appuntamento con Tito Ricordi.,copialettere,Puccini,Giacomo,"Puccini.
 Torrelago.
 Avvertito Broglio. Credo avremo difficoltà combinare cessione contrariamente opinione stesso scritturato. Prima andare Abetone combini vedere Tito. Scrivagli Levanto Hotel Stella Italia.
@@ -2723,11 +2238,6 @@ Attendiamo da Parigi risposta circa La glu- quanto a Zola mi pare, dopo la nostr
 Scrivimi per le campane e credimi
 aff°
 Tito Ricordi",negative,negative,negative,sadness
-1147,CLET000701,3.0,12.0,1899.0,,copialettere,Puccini,Giacomo,"Puccini
-Torrelago
-
-Darclée già servita- oggi [******] te Mugnone. Scrivoti. Affettuosi saluti.
-Tito",positive,positive,positive,joy
 1151,CLET000702,5.0,12.0,1899.0,Invio spartiti a cantanti e direttore d'orchestra.,copialettere,De Marchi,Emilio,"5 Xbre 99
 Caro Giacomo,
 Pappà [sic] ti risponde oggi stesso a proposito campane ed ora quarta- Le parti Mugnone, Darclée, Giraldoni furono già spedite; ho veduto ieri De Marchi che mi annunciò la di lui prossima partenza per Roma - quando sarai nell'alma città? presto, credo.
@@ -2835,11 +2345,6 @@ Via Nazionale 46. Roma
 Evviva infiniti. Sempre avanti Doge.
 Abbracci affettuosi.
 Giulio",positive,positive,positive,joy
-1193,,,,,,,Ricordi,Giulio,"Puccini 
-Via Nazionale 46. Roma
-Evviva infiniti. Sempre avanti Doge.
-Abbracci affettuosi. 
-		Giulio",positive,positive,positive,joy
 1194,CLET000718,16.0,1.0,1900.0,Auguri per esecuzioni Tosca.,copialettere,Puccini,Giacomo,"Puccini
 Via Nazionale 46  Roma
 
@@ -2915,15 +2420,6 @@ Teatro Regio     Torino
 
 Tenore pronto per udizione domani ore quindici. Occorre tua presenza per non ritardare più oltre decisione. Potresti ripartire diretto ora 16.10 per assistere prova olimpica domani sera. Felice tutto proceda bene.
 Tito",positive,neutral,positive,sadness
-1230,CLET000729,16.0,2.0,1900.0,,copialettere,Giacosa,Giuseppe,"Maestro Puccini.
-Teatro Regio. Torino
-Grazie graditissime notizie. Avverto Giacosa Illica. Ritengo prova Domenica sera. Salute continua discreta. Spero Doge preparerà degno ricevimento arrivo Olimpo. Salvo casi imprevedutissimi Anton domani sera. Saluti cordiali da noi tutti.
-Ricordi",positive,positive,positive,joy
-1234,CLET000730,16.0,2.0,1900.0,,copialettere,Giacosa,Giuseppe,"Puccini
-Teatro Regio. Torino.
-
-Avverto Giacosa. Credo difficile possa venire perché indisposto. Con vivissimo dispiacere non posso azzardarmi viaggiare Cordiali saluti.
-Ricordi",positive,negative,negative,sadness
 1237,CLET000731,18.0,2.0,1900.0,"Problemi per fare l'audizione per tenore, rischio ritardi e proteste.",copialettere,Puccini,Giacomo,"Puccini
 Teatro Regio. Torino
 Tito letto ammalato impossibile venga domani. Se presente Superti potrà dare indicazioni necessarie. Avverto Gatticasazza [sic] niente udizione domani. Temo però tale ritardo provochi protesta formale per ritardo prove. Ritengo urgente sciogliere quistione. Consiglio telegrafi direttamente Gatticasazza o per fissare giorno udizione o per dichiarare se sì o no accetta artista. Spero tutto proceda benissimo. Auguri saluti cordiali.
@@ -2991,12 +2487,6 @@ Gradisca intanto da tutti noi i più affettuosi saluti
 dev aff°
 pp G Ricordi e C.
 Eug Tornaghi",negative,neutral,positive,joy
-1267,CLET000743,4.0,5.0,1900.0,,copialettere,Puccini,Giacomo,"Puccini.
-Torrelago.
-
-Suo telegramma graditissimo. Contento Doge tutti contenti. Dunque evviva. Spero come promette verrà presto per rimanere fino a cose decise. Altrimenti uno Roma altro Toma mai verrassi conclusione.
-Saluti cordiali anche Signore.
-Ricordi",negative,negative,positive,joy
 1271,CLET000744,15.0,6.0,1900.0,"Chiede notizie riguardo i cantanti; della difficoltà di trovare una marcia nella Tosca. Cita ""Tartarin""",copialettere,Puccini,Giacomo,"Milano. 15 Giugno 1900
 Caris. Puccini
 Graziissime per la sua cara lettera di Mercoledì, che mi recò vero piacere colle sue buone notizie. Vedo ch’Ella trova un po’ precipitata la gita londinese!... ma in quei famosi teatri esteri non si sa mai esattamente cosa si fa! – Pazienza – meglio un po’ presto, che tardi, quando bisogna prendere le cose come si trovano! – e trangugiando amaro! – E come eseguisce la parte il Gommendadore De Lucia?.... dove va giù?... dove va su?....
@@ -3228,11 +2718,6 @@ A Giacomo Puccini
 Tante belle cose!!!.. ma fino a che Sor Sociahomo non sarà un po’ tranquillo in Milano....  di libretti non se ne troveranno più – compreso quella infelice M.A AA che piange sempre il suo abbandono. Saluti cordiali
 Suo GR
 ",negative,negative,negative,sadness
-1385,CLET000772,18.0,11.0,1900.0,,copialettere,Puccini,Giacomo,"Puccini.
-Torrelago.
-
-Benissimo. Rievviva. Spero abbassamento non cronico. Saluti Doge e Maestro e tutti.
-Ricordi.",positive,positive,positive,joy
 1387,CLET000773,20.0,11.0,1900.0,"Problemi fra Mugnone e Impresa di Napoli rendono necessario trovare un altro direttore, proposto Lombardi.",copialettere,Puccini,Giacomo,"(R.P.)
 Puccini.
 Torrelago.
@@ -4057,11 +3542,6 @@ Torrelago
 
 Speriamo sue grandi sofferenze sieno finite con definitiva medicazione. Ora auguriamo guarigione più rapida possibile.
 Ricordi",positive,positive,negative,sadness
-1779,CLET000883,15.0,3.0,1903.0,,copialettere,Puccini Bonturi,Elvira,"Elvira Puccini.
-Torrelago.
-
-Sta bene. Cordiali saluti.
-Ricordi",positive,positive,positive,sadness
 1781,CLET000884,17.0,3.0,1903.0,Chiede notizie salute.,copialettere,Puccini,Giacomo,"(R.P.)
 Giacomo Puccini
 Torrelago
@@ -4110,12 +3590,6 @@ Torrelago
 
 Verrò costì dopo primo aprile. Saprai già trionfo Tosca Montecarlo. Affettuosi saluti auguri
 Tito",positive,positive,positive,joy
-1809,CLET000893,,,,Raccomanda di seguire le cure e augura pronta guarigione.,copialettere,Puccini,Giacomo,"Giacomo Puccini
-Torrelago.
-Sono lieto siasi effettuato mio consiglio consulto con [*******]. Pure lieto approvazione cura ottimi professori Guarnieri Bianchin. A Lei caro Giacomo seguire scrupolosamente prescrizioni scienza. Questo  ed assoluta tranquillità morale fisica incombono Lei quale stretto dovere di uomo di artista. Di Lei nome imponegli continuo pensiero di quanta fiducia hanno in questo suoi veri amici per singolare affetto il mondo intero per la gloria del arte. Oso dirle sua guarigione dipende da lei.
-
-Confido che dono divino della ispirazione lo ispirerà ora per suo bene preparandosi cosi nuove glorie al di Lei nome. Questa la preghiera questo augurio del vecchio sincero fidato amico che consideralo come figlio. Ricevuto pagina Butterfly. Bene sonetto Pastonchi. Saluti affettuosi.
-Ricordi,",negative,negative,positive,joy
 1811,CLET000894,30.0,3.0,1903.0,Raccomanda di seguire la cura scrupolosamente.,copialettere,Puccini,Giacomo,"maniproprie Elvira Puccini
 Torrelago.
 
@@ -4395,10 +3869,6 @@ aff° dev°
 Eug Tornaghi
 
 Il Sig. Dell'Orto ci rammenta un credito che ha verso di Lei di circa £95.-; credo sia pel calorifero. Si può pagarlo?",negative,neutral,positive,joy
-1954,CLET000930,,,,Difficile trovare medici disposti a nuovo consulto a Torre del Lago; torna a proporre trasferimento per avere cure giornaliere.,copialettere,Puccini Bonturi,Elvira,"Elvira Puccini
-Torre del lago
-Pur troppo siamo da capo. Difficile trovare quì chi voglia recarsi costì per nuovo consulto. Ogni giorno più queste inutili controversie rendono più lontana desiderata guarigione. Perciò erasi suggerita sola efficace decisione cioè trasporto altrove e cura giornaliera che ultima visita Guarneri prova assolutamente necessaria. Oggi proverò sentire se possibile altro consulto. Scriverò. Saluti cordiali
-Ricordi",negative,negative,negative,sadness
 1956,CLET000931,29.0,6.0,1903.0,Insiste di nuovo su necessità trasferimento di G. Puccini per cure giornaliere. Pareri medici discordi,copialettere,Puccini Bonturi,Elvira,"Elvira Puccini
 Torredellago.
 Non abbiamo ora Milano alta celebrità chirurgica. Ottimo chirurgo che salvò amendue gambe nostro amico non muovesi causa salute trovando altresì inutile consulto mentre stato attuale crede necessaria visita cura giornaliera. Siamo tutti assai scossi da contradicenti diagnosi come dal risultato quasi nullo verificatosi ultimamente. Crediamo sempre unica soluzione ambiente speciale con cura ogni giorno. Ci pare tutti assumano responsabilità troppo gravi compreso stesso Puccini. Saluti cordiali.
@@ -4477,11 +3947,6 @@ Torrelago
 
 Verrei trovarti martedì 21 se ancora trovoti Torre. Affettuosi saluti
 Tito",negative,neutral,positive,joy
-1982,CLET000938,,,,Informa sull'ora del suo arrivo.,copialettere,Puccini,Giacomo,"Puccini
-Torrelago
-
-Arriverò domattina prima di colazione in carrozza da Viareggio. Affettuosi saluti
-Tito",negative,negative,positive,joy
 1984,CLET000939,10.0,8.0,1903.0,Spedirà il materiale al M° Venturi non appena ne sarà in possesso.,copialettere,Puccini,Giacomo,"10 agosto 903
 Carissimo Puccini,
 
@@ -4752,13 +4217,6 @@ Ti faccio spedire subito la partitura a due - fiori coll'ultima versione - aspet
 Ti mando copia del telegramma che spedii subito a Delcassé.
 Pappà [sic] ti saluta caramente - io ti abbraccio con affetto
 Tito",negative,positive,negative,joy
-2121,CLET000979,20.0,12.0,1903.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Torrelago
-4992  40294  41208. Completa 43616  40595.  45478 squilibrata. Parecchi posizioni 39625 ottime 49315. Complesso assai 42337 altri 43142. 38417.",positive,neutral,negative,joy
-2123,CLET000980,23.0,12.0,1903.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Torrelago
-
-Ricevuto partitura. Benone. 49560  49922 termometro 52861. 39790 sole 37062 33390 52115 senza sugo. Auguri cordialissimi tutti. Omaggi al 37920 di Castelarquato. A rivederci presto. 48970.",positive,neutral,positive,joy
 2125,CLET000981,25.0,12.0,1903.0,Auguri di Natale.,copialettere,Puccini,Giacomo,"Maestro Puccini
 Torrelago.
 Felicissimo natale ed auguri infiniti
@@ -4789,9 +4247,6 @@ tuo aff° amico
 C. Blanc
 
 In questo momento arriva un conto della Ditta Giuseppe Ricordi: se sta bene, rimandamelo e lo farò pagare.",negative,neutral,negative,joy
-2138,CLET000985,29.0,12.0,1903.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Torrelago
-Osanna al Doge. Ricevo 40733 che sarà inizio nuovo 41550 cammino del nostro carissimo 47206. Questo augurio che è certezza sia anche augurio ad amendue loro di nuovi molti anni di 40680 51400 completata da quei nuovi capolavori che faranno sempre più 41659 il suo 44801. 48970.",positive,positive,positive,joy
 2140,CLET000986,1.0,1.0,1904.0,Auguri buon anno.,copialettere,Puccini,Giacomo,"Giacomo Elvira Puccini
 Torrelago
 
@@ -4902,12 +4357,6 @@ Ieri sera ci furono solenni funebri pel compianto Com. Erba. Il S\r/ Giulio, int
 Cordialissimi saluti dall'ottimo S\r/ Tornaghi ed una forte stretta di mano
 dall'eff° amico
 C. Blanc",negative,negative,positive,sadness
-2197,CLET001000,,,,Riguardo a mancata conclusione affare Genova e possibili combinazione esecuzione a Lucca. Lutto Erba,copialettere,Erba,Luigi,"(D)
-Maestro Comm. Puccini
-Torrelago
-
-Di passaggio causa lutto Erba vedo ancora non definito affare Genova. Preoccupato tale cosa che muta condizioni attuali troverei allora opportuno combinare Lucca sempreche, garantita esecuzione. Pregola telegrafarmi urgenza. Saluti cordiali.
-Ricordi",positive,negative,negative,sadness
 2200,CLET001001,29.0,7.0,1904.0,Riguardo all'eventualità di non dare l'opera nè a Genova nè a Lucca.,copialettere,Puccini,Giacomo,"29 luglio 904
 
 Carissimo amico
@@ -4934,10 +4383,6 @@ Te felice che hai una massima di 19 gradi: noi invece abbiamo una minima di 26 e
 Gradisci i più cordiali saluti dall'ottimo S\r/ Tornaghi e credimi sempre
 tuo aff° amico
 C. Blanc",negative,negative,negative,joy
-2210,CLET001003,18.0,8.0,1904.0,,copialettere,Puccini,Giacomo,"Comm. Maestro Puccini
-Boscolungo pistojese.
-Sabato sarò Pracchin con Illica. Domani telegraferò ora. Cordiale a rivederci
-Ricordi",negative,negative,positive,joy
 2213,CLET001004,22.0,8.0,1904.0,Riguardo voce di un/a cantante.,copialettere,Puccini,Giacomo,"Maestro Puccini
 Boscolungo Pistojese
 Da libro udizioni Signor Tito risulta bellissima voce specialmente acuti. Bella figura. Cordiali saluti
@@ -5082,10 +4527,6 @@ Accluso 20 B. B. Italia e Napoli:
 1  ""                     ""    200.-
 1  ""                     ""    100.-
                          £.10000.-",negative,neutral,negative,sadness
-2280,CLET001021,20.0,7.0,1905.0,,copialettere,Puccini,Giacomo,"Puccini
-	Prensa       Buenosaires
-Grazie. Evviva
-		Giulio Ricordi",positive,positive,positive,joy
 2282,CLET001022,25.0,2.0,1905.0,Riguardo alla ricerca di un nuovo libretto; rappresentazioni di Butterfly al Cairo; riedizione Edgar.,copialettere,Puccini,Giacomo,"25/2. 1905.
 
 Caris.° Puccini
@@ -5146,17 +4587,6 @@ Giulio Ricordi",negative,negative,negative,joy
 Torrelago.
 Buon viaggio dunque felice ritorno. Col più vivo piacere rivedrò carissimo Doge.
 Ricordi",positive,positive,positive,joy
-2304,CLET001029,,,,Dubbi riguardo le modifiche al libretto proposto da Illica.,copialettere,Puccini,Giacomo,"14/5.1905
-
-Caris.° Puccini
-
-Ho bene riflettuto. Sprechiamo tempo inutilmente, dappoiché siamo innanzi a due concetti diversi. Ridurre il lavoro d'Illica a ciò che più o meno si avvicina a Traviata, Ballo in maschera, Rigoletto (cito appositamente capolavori) è rovinare ogni cosa. Io rispetto completamente le di Lei convinzioni ed è appunto perché le rispetto che dico: basta, non parliamone più. Infatti come giudico pericoloso il cambiare, modificare - s'intende nelle linee generali - il lavoro quale venne concepito da Illica; cosi giudico altrettanto pericoloso che Lei, per vie di ragionamenti e di concessioni, lo traduca musicalmente. Le vere opere d'arte vivono per le prime impressioni. Le di Lei impressioni francamente me le ha esposte ed ha fatto bene! - ed io faccio bene a dire: e allora non è più il caso di pensarvi.
-Punto e da capo - Ritorniamo al Calvario dell'aspettare!. è il martirio di una vera nuova crocifissione, nella quale ho due compagni pure.... per fortuna non ladroni buoni o cattivi, ma due compagni di sventura!.
-Auguro che anche per noi vengano pietose Marie a deporci dalle croci - ed auguro ne trovino ancora vivi e pronti ad affrontare nuove battaglie con quel coraggio e con quella fede che pur troppo al momento mi sembrano svanite!
-Buona gita Veneziana ed a rivederci al di Lei ritorno.
-Con tutto affetto
-il Suo devotis.
-Giulio Ricordi",negative,negative,negative,fear
 2307,CLET001030,24.0,5.0,1905.0,Suggerisce incontro con Illica per appianare le divergenze.,copialettere,Puccini,Giacomo,"24/5.1905.
 
 Carissimo Puccini
@@ -5198,11 +4628,6 @@ Come desideri ti mando qui accluso l'estratto del tuo conto al 30 giugno, aggiun
 Ti stringo la mano e ti saluto caramente aff° amico
 C. Blanc
 per G. Ricordi e C.",negative,negative,negative,sadness
-2335,CLET001036,10.0,9.0,1905.0,,copialettere,Puccini,Giacomo,"(R.P.)
-Maestro Puccini.
-Torrelago
-Siamo dolenti sue notizie. Spero saperla presto sanissimo pronto sedute definitive colla Signora Maria. Illica scrittole. Domani scrivole intanto saluti cordiali.
-Ricordi",negative,positive,negative,sadness
 2338,CLET001037,10.0,9.0,1905.0,Riguardo a compagnia per Dal Verme.,copialettere,Puccini,Giacomo,"10 7mbre 905
 
 Caro Puccini,
@@ -5389,15 +4814,6 @@ Ricordi",negative,negative,positive,joy
 Royal Hôtel- Nizza
 Arrivo domattina ora 8.35. Tienmi camera tuo Albergo. Affettuosi saluti
 Tito",negative,neutral,positive,joy
-2413,CLET001063,,,1906.0,Lettera in latino.,copialettere,Puccini,Giacomo,"Advenit suam cartolinam. Gratias ago. Titus nunc est hic. Si cavete canes, patientia vestra non debet abutere; Galli amant lustrati esse et cum conciones amabilissimae potuisse obtinere melium possibile in galera qui est theatrum. Votis sine fine. S. V. B. E. E. Q. V.
-Tyrannus
-
-Monsieur Le Commendeur
-Giacomo Puccini
-
-Hôtel Royal
-Nice
-s/m",negative,negative,negative,anger
 2416,CLET001064,15.0,3.0,1906.0,Invio di un chèque. Prove a Nizza di Manon,copialettere,Puccini,Giacomo,"//RACCOMANDATO
 15 marzo 1906
 
@@ -5743,9 +5159,6 @@ Illica Le avrà spedito il suo lavoro ed aspetto di conoscere le di Lei impressi
 Mi rammenti alla di Lei Signora e gradisca un'affettuosa stretta di mani dal
 suo affezionatissimo
 Giulio Ricordi",negative,negative,negative,joy
-2564,CLET001108,,,,Ricezione materiale; commenti su scene.,copialettere,Puccini,Giacomo,"Maestro Puccini
-Torrelago
-Ricevuto terzo quarto. Scena scuola riempitivo inutile anzi pericoloso. Ma buona scena arresto Johnson e seguenti. Fine di grande poesia che riescirà commovente grazie alla musica ajutata da effetti scenici. Tutto sommato parmi possa riuscire dramma tre atti assai efficace originale. Telegrafi se consegnare amico Bologna senza aspettare Maxwell. Non vorrei causare illusioni. Illica qui dice fatto primo atto. Saluti cordiali. Ricordi",positive,negative,positive,joy
 2568,CLET001109,10.0,11.0,1906.0,Incontro con Illica una volta che avrà terminato suo affare.,copialettere,Puccini,Giacomo,"Maestro Puccini
 Hotel Londres    Paris
 
@@ -6130,20 +5543,6 @@ Coi più cordiali saluti del n/ Sig. Comm. Giulio, pregandoLa di tenerci con sti
 dev aff
 pp G Ricordi e C
 Eug Tornaghi",negative,negative,positive,joy
-2701,CLET001153,,,,"Consegnata partitura a Bologna, si raccomanda silenzio fino alla definizione dell'affare.",copialettere,Puccini,Giacomo,"Maestro Puccini
-Torrelago
-Consegnato manoscritto Bologna raccomandando massimo segreto. Confido Ella pure non dirà verbo fino quando definito tutto.
-Telegraferò Maxwell. Saluti
-Giulio",negative,negative,negative,sadness
-2704,CLET001154,,,,Assenza Belasco.,copialettere,Puccini,Giacomo,"Puccini
-Torrelago
-Maxwell telegrafa Belasco assente risposta fra una settimana. Cordiali saluti
-Ricordi",positive,negative,positive,joy
-2708,CLET001155,,,,Citazioni di Vaucaire della Casa di Parigi.,copialettere,Puccini,Giacomo,"Maestro Puccini
-Torrelago
-
-Crediamo opportuno avvertire Casa Parigi ricevette citazione Vaucaire chiedendo lire trentamila danni per inesecuzione contratto Femme pantin. Saluti.
-Ricordi ",negative,negative,negative,fear
 2711,CLET001156,30.0,7.0,1907.0,Riguardo a richiesta danni di Vaucaire dopo notizia della rinuncia di Puccini a musicare Conchita,copialettere,Puccini,Giacomo,"Milano, 30 Luglio 1907
 
 Carissimo Signor M°. Giacomo Puccini
@@ -6312,10 +5711,6 @@ Giulio Ricordi",negative,negative,negative,sadness
 Hotel Bristol. Wien.
 Evviva. Felicitazioni infinite.
 Ricordi",negative,neutral,positive,joy
-2791,CLET001180,12.0,11.0,1907.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Torrelago
-Se abbiamo ben compreso premiere zero. Saluti cordiali.
-Ricordi",negative,positive,positive,joy
 2793,CLET001181,17.0,11.0,1907.0,Dell'arrivo di T. Ricordi.,copialettere,Puccini,Giacomo,"Maestro Puccini
 Torrelago
 
@@ -6443,19 +5838,6 @@ Ma ogni dolenza, ha poi il suo bocconcino amaro!! E questo me lo fornisce pure L
 Non v'è bisogno ch'io dice che pel Sor Giacomo mi metto, se occorre, in quattro....magari in otto - Ma.....anche essendo Gerente esiste sempre la coscienza del dovere!.... Non si scioglie un contratto, ne si cerca combinarne uno diverso, così come due e due fanno quattro!!. Mi basta - senza dire d'altri danari sciupati - di essere rimasto per più mesi colla visione spiacevole di un processo a Parigi....con una dimanda di 30/m franchi: mi basta di essere ancora in disborso - e non per colpa mia - di franchi diecimila!! Io la figura di cattivo amministratore non voglio farla!-
 Mi spiace poi dirle che questo continuo andirivieni, non permette una seria collaborazione e nemmeno mi immagino che rimanendo uno qui.... e l'altro a Roma (dato che si riescisse!) si possa arrivare a cosa veramente fatta. Venendo Lei a Milano, pregherò l'Avv. Campanari di iniziare cautamente le pratiche col Zangarini, ma occorre ch'Ella vi prenda parte attiva, perché il vero, il solo Giudice autorevole e competente è Lei. Ben inteso che, al momento opportuno, io sarò pronto a fare quanto occorre- Saluti affettuosi dal
 Suo Giulio Ricordi",negative,negative,negative,sadness
-2839,CLET001196,16.0,4.0,1908.0,Inoltro risposta di Bertieri e richiesta istruzioni in proposito.,copialettere,Studio Bertieri,,"16 aprile 908
-
-Carissimo Maestro
-
-Ci pregiamo rimetterle quì accluso la risposta del fotografo Bertieri di Torino e La preghiamo di volere favorirci istruzioni in proposito.
-In attesa di comandi abbiamo l'onore di presentarle i nostri più cordiali e distinti saluti.
-dev. aff°
-
-
-
-Ill.\mo/ Sig\r/ Maestro
-Comm. G. Puccini
-Torre del Lago",negative,both,positive,joy
 2842,CLET001197,17.0,4.0,1908.0,Invio carte da firmare a Roma.,copialettere,Puccini,Giacomo,"Maestro Puccini
 Torrelago
 Già spedito carte Roma Appena ritornate firmate avvertiremo. Cordiali saluti
@@ -6664,10 +6046,6 @@ Ricordi",positive,positive,positive,joy
 Torrelago.
 I veri cani stonatori e ringhiosi caro Maestro sono i famosi così detti amici informatori salvo comprensibile nervosismo prima sera specie primo secondo atto esecuzione fu degna del suo lavoro. Nemmeno era caso cambiare Mimì che nel terzo quarto atto fu ottima interprete. Certamente [******] qualche tenebrosa macchinazione Può credermi perché non ne ero persuaso. Baritono eccellente Musetta non molta voce ma briosa simpatica. Non si ripete quartetto fra scroscianti plausi se eseguito da cani. Non soltanto sono dolente per le impressioni che mi scrive non solo ma anche amaramente disgustato Se le rappresentazioni di opere che oramai non hanno proprio bisogno del giudizio pubblico possono così influenzare sul di lei lavoro è necessità assoluta rinunciare Manon Scala. Sarà meglio per tutti. Saluti cordiali.
 Giulio Ricordi",negative,negative,negative,sadness
-2917,CLET001221,14.0,10.0,1908.0,,copialettere,Puccini,Giacomo,"Maestro Puccini.
-Hotel Bellevue. Avenue Opéra. Paris
-Suis desolé pour mon cher Giacomo toujours trop bon. Absolument necessaire avoir vie calme. Vous vous devez bien plus a Art que a certaines personnes. Mais ne precipitons pas. Aprés votre semaine triomphale artistique dont je jouis venez Milan. Espire comme dans autres circonstances malheureuses pouvoir conseiller bonne solution. Affections
-Ricordi",negative,negative,positive,joy
 2919,CLET001222,11.0,11.0,1908.0,Trionfo Tosca Manhattan,copialettere,Puccini,Giacomo,"Maestro Puccini
 Torrelago
 
@@ -6777,11 +6155,6 @@ Coi migliori saluti di tutti noi, ci ripetiamo
 dev. aff.
 p G. Ricordi e C.
 N Costa",negative,negative,negative,sadness
-2951,CLET001235,1.0,3.0,1909.0,,copialettere,Puccini,Giacomo,"Maestro Puccini.
-Torrelago
-
-Sono ben contento saperlo costi. Aspetti con animo tranquillo regolare andamento cose. Auguro presto decidansi con sua soddisfazione tanto dal lato morale materiale quanto per sua dignità personale dovuta al nome del Maestro Giacomo Puccini. Intanto cerchi respirabil aere nella cara Arte nella Sua America. Benché preso da lavoro immane mia salute abbastanza buona e vecchia carcassa resiste. Affettuoso abbraccio
-Giulio Ricordi",positive,positive,positive,joy
 2953,CLET001236,11.0,3.0,1909.0,Chiede notizie salute.,copialettere,Puccini,Giacomo,"RP
 Maestro Puccini
 Torrelago
@@ -6819,10 +6192,6 @@ Ritenendo che Ella conosca l'attuale indirizzo della di Lei Signora Sorella siam
 Gradisca, carissimo Maestro, i nostri più affettuosi saluti               
 p G. Ricordi e C.
 A Morlacchi",negative,both,negative,sadness
-2967,CLET001241,11.0,5.0,1909.0,,copialettere,Puccini,Giacomo,"Maestro Puccini.
-Torrelago
-Invidiando simpatico ritrovo e squisite sensazioni suoi ospiti mando saluti cordiali auguri vivissimi. Mai come ora nostra cara Arte italiana implora una manifestazione sincera vigorosa aleggiante dal suo più glorioso artista.
-Ricordi",positive,positive,positive,joy
 2969,CLET001242,7.0,5.0,1909.0,Riguardo a riproduzioni abusive di dischi fatte dalla Società del Grammofono francese.,copialettere,Puccini,Giacomo,"Milano, 7 Maggio 1909
 
 Egregio Maestro,
@@ -6902,16 +6271,6 @@ pp G Ricordi e C
 Eug Tornaghi
 
 //Cordialissimi saluti e ringraziamenti - dev   Tornaghi",negative,neutral,positive,joy
-2992,CLET001250,9.0,7.0,1909.0,,copialettere,Puccini,Giacomo,"9/7.1909.
-
-Carissimo Puccini.
-Hotel des Thermes - 
-                                   Bagni di Lucca
-Ricevo la sua del 7, proprio quando stavo per scriverle - Non ho bisogno di dirle che comprendo benissimo l'impressione che, persona come Lei di buono e dolce carattere avrà ricevuto: me ne spiace assai, assai - ma diversamente non poteva essere! - Intorno a .... altra gente ci voleva ed altri consiglieri!!...
-Ma .... Ella in tutto questo colpa non ha affatto, affatto e si è voluto proprio dar di capo col muro. Cerchi di filosofare un poco! - peccato non abbia la forza di tuffarsi adrittura nell'Arte e trovare in questa sollievo e soddisfazione - Questo ci vorrebe, carissimo Puccini.
-I saluti da Tito, pure spiacente - ed i miei, con un cordiale abbraccio
-Aff Suo
-Giulio Ricordi",negative,negative,negative,sadness
 2995,CLET001251,11.0,8.0,1909.0,Versamento diritti musicali della Società Italiana degli Autori.,copialettere,Puccini,Giacomo,"Milano, 11 Agosto 1909
 
 Signor Maestro Giacomo Puccini
@@ -6987,16 +6346,6 @@ Torre del Lago",negative,negative,negative,sadness
 Torredellago
 Tito già tutto disposto per andare Bruxelles quando oggi stesso causa imprevisto importante affare impedisce ora sua assenza. Se dunque va Lei tanto meglio augurando ciò non ritardi nostra cara Fanciulla ed il lavoro annunciatomi colla riuscita fotografia. Saluti cordiali.
 Ricordi",positive,positive,negative,sadness
-3011,CLET001257,,10.0,1909.0,"Impossibilità di Tito di allontanarsi, Puccini dovrà andare a Bruxelles al suo posto.",copialettere,Puccini,Giacomo,"Maestro Puccini
-Torrelago
-
-Devo confermarti telegramma mio padre. Sarei andato subito Bruxelles con vivo piacere sia per mia soddisfazione sia per risparmiarti viaggio fatica e tempo perduto per nostra Minnie. Non posso proprio allontanarmi questi giorni.Cordiali saluti
-Tito",positive,negative,positive,sadness
-3013,CLET001258,21.0,10.0,1909.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Grand Hôtel.    Bruxelles.
-Recue lettre poetique. Heureux bounes nouvelles. Recommandons aller voir Madoux dejà prevenu. Connaissance utile. Souhaits.
-Affections.
-Ricordi",positive,positive,positive,joy
 3015,CLET001259,28.0,10.0,1909.0,Auguri,copialettere,Puccini,Giacomo,"Maestro Puccini
 Grand Hôtel.    Bruxelles.
 Benissimo. Al Doge auguri infiniti saluti affettuosi.
@@ -7332,10 +6681,6 @@ con quel che segue come omaggio, ecc. ecc.
 Ti prego dunque di scrivere tale dedica su un foglio di carta bianca e di mandarla subito alla Casa perché venga riprodotta e inserita nell'edizione della Fanciulla.
 tuo aff°
 Tito Ricordi",negative,negative,positive,joy
-3135,CLET001300,6.0,12.0,1910.0,,copialettere,Puccini,Giacomo,"Boomax per Puccini
-New York
-Benone
-Commendatore",negative,neutral,positive,joy
 3137,CLET001301,9.0,12.0,1910.0,Auguri per prima a New York di Fanciulla.,copialettere,Puccini,Giacomo,"Puccini
 Knickerbocker Hotel
 New York
@@ -7568,10 +6913,6 @@ Tito",negative,positive,positive,joy
 Hotel Savoy - Londa
 Arrivo domani ore 17 spero disporrai provare efficacemente domenica pappà [sic] sempre migliora
 Tito",positive,positive,positive,joy
-3247,CLET001328,29.0,5.0,1911.0,,copialettere,Puccini,Giacomo,"Puccini
-Savoy Hotel   Londra
-Abbraccio Doge
-Giulio",positive,positive,positive,joy
 3249,CLET001329,30.0,5.0,1911.0,congratulazioni,copialettere,Puccini,Giacomo,"Puccini 
 Savoy Hotel         Londra
 Sempre gloria al Doge",negative,neutral,positive,joy
@@ -7642,11 +6983,6 @@ Tito",positive,negative,negative,anger
 Teatro Costanzi - Roma
 Già consigliato Rossetti pregare Sindaco Venezia si accordi con Bettoni. pappà sempre meglio Auguri per nuovo Ramerrez
 Tito",positive,positive,positive,anger
-3288,CLET001342,24.0,6.0,1911.0,,copialettere,Puccini,Giacomo,"Giacoo Puccini
-fermo posta - Perugia
-Consiglioti non rispondere a sozze contumelie che non colpiscono se non chi le lancia
-Ti abbraccio
-Tito",negative,positive,negative,anger
 3290,CLET001343,27.0,6.0,1911.0,Invio corrispondenza fra Tito II e Mugnone; notizie salute di G. Ricordi.,copialettere,Puccini,Giacomo,"Giacomo Puccini
 Torre del Lago
 Parto Parigi - Colombo ti manda copia mia corrispondenza Mugnone ti telegrafai Perugia - pappà continua migliorare molto lentamente Abbraccioti
@@ -8348,10 +7684,6 @@ Tito
 Maestro Giacomo Puccini
 Grand Hotel
 Viareggio",negative,positive,negative,sadness
-3603,CLET001436,,,,Rifiutare Manon.,copialettere,Puccini,Giacomo,"Giacomo Puccini
-fermo posta - Viterbo
-Impossibile telegrafarti lunga lettera Astruc trattasi solito affare Manon con proposte cantanti inaccettabili. Notizie altra fonte pessime. Sono parere quindi rifiutare Manon
-Tito Ricordi",positive,negative,negative,sadness
 3605,CLET001437,6.0,9.0,1913.0,"Lui andrà ad Amburgo, mentre Puccini andrà a Vienna, dove poi si incontreranno.",copialettere,Puccini,Giacomo,"6/9
 Maestro Puccini
 Prunetta
@@ -8464,17 +7796,6 @@ Affettuosi saluti
 dal 
 tuo
 Tito Ricordi",positive,negative,positive,joy
-3648,CLET001452,30.0,4.0,1914.0,,copialettere,Puccini,Giacomo,"Milano li 30 Aprile 1914
-
-Illm°. Comm. M°. Giacomo Puccini
-                                                TORRE DEL LAGO
-
-Caro Maestro,
-Le accompagniamo colla presente il pouvoir al quale dovemmo apportare una lieve modificazione e cioè invece di ""pour prendre connaissance"" mettemmo ""pour prendre copie etc.""
-La preghiamo di volere firmare il ""pouvoir"" stesso e di ritornarcelo nell'acclusa busta affinché possiamo senz'altro indugio farlo legalizzare dal nostro Notaio e dal Console Francese e spedirlo poi a Parigi.
-In attesa, ci è gradita l'occasione per porgerLe i nostri più devoti saluti
-pp G Ricordi . C.
-A Colombo",negative,negative,negative,joy
 3650,CLET001453,11.0,5.0,1914.0,"Informa che le spese processuali saranno a carico della Ricordi, così come poi saranno a favore della stessa Ditta i benefici derivanti dall'azione processuale.",copialettere,Puccini,Giacomo,"Milano li 11 Maggio 1914
 
 Egregio Maestro, 
@@ -8523,15 +7844,6 @@ L. 50436.89- N° 0022176 in saldo di quanto dovutoLe al 30 Giugno come da conto 
 La preghiamo di volerci ritornare debitamente firmate le due quietanze corrispondenti e di aggradire i nostri più devoti saluti
 pp G Ricordi . C.
 A Colmbo",negative,neutral,negative,sadness
-3659,CLET001457,,,,Preferenza date per incontro.,copialettere,Puccini,Giacomo,"Giacomo Puccini
-Villa Motta - Viareggio
-Perdona ritardo scriverti causa trasloco nostra casa non ancora compiuto. Desidero vederti presto potrei venire Viareggio giovedì o venerdì prossimo oppure dopo primo Agosto. Telegrafa quali date preferisci. Ti abbraccio
-Tito",negative,positive,positive,sadness
-3661,CLET001458,,,,Arrivo per l'indomani.,copialettere,Puccini,Giacomo,"Giacomo Puccini
-Villa Motta - Viareggio
-
-Arriverò domani ora 13.26 Pisa telegrafami se puoi mandare automobile prendermi Pisa. Ti abbraccio
-Tito",positive,positive,positive,sadness
 3663,CLET001459,4.0,9.0,1914.0,Iniziate prove.,copialettere,Puccini,Giacomo,"Maestro Puccini
 Torrelago
 
@@ -8579,12 +7891,6 @@ G Ricordi e C.",negative,negative,negative,joy
 Torre del Lago
 Unica via uscita essere assente sino fine mese poi scrivere Caine tuo rincrescimento non vedo altro modo schivare pericolo proposta inglese come sempre tendenziosa compromettente Ti abbraccio
 Tito Ricordi",negative,positive,negative,anger
-3686,CLET001466,,,,Successo Fanciulla a Torino; consigli su cosa scrivere a Caine riguardo a sua posizione verso la guerra,copialettere,Puccini,Giacomo,"Giacomo Puccini
-Torre del Lago
-Saprai successo ottimo Fanciulla Torino Tua lettera sembrami pericolosa perché ti pronunci su triste sorte Belgio e Caine potrebbe pubblicarla così come sta malgrado tua preghiera rispettare tuo riserbo e saresti compromesso. Io direi semplicemente che fosti sollecitato a glorificare o a deplorare da diverse parti ma che animo tuo non sente che un vivo desiderio di pace universale che ponga fine a questa guerra atroce
-
-senza esempi nella storia. Tale il tuo voto di uomo e di artista. Ti va? Ti abbraccio
-Tito ",negative,negative,negative,fear
 3689,CLET001467,7.0,11.0,1914.0,Informazioni sul fucile non ancora arrivato.,copialettere,Puccini,Giacomo,"Milano li 7 Novembre 1914
 
 Illm°. Sig. M°. Comm. Giacomo Puccini
@@ -8965,20 +8271,6 @@ GCantù
 All'Ill\mo/ Sig.\r/
 M° Comm. Giacomo Puccini
 Torre del Lago",negative,negative,negative,sadness
-3798,CLET001502,,,,Riguardo lavorazione del Tabarro; chiede quando andrà a Milano.,copialettere,Puccini,Giacomo,"Giacomo Puccini
-Torre del Lago
-Sono tornato - Adami mi dà otttime notizie tabarro - Benone - Dimmi se e quando verresti Milano - Abbraccioti
-Tito Ricordi",negative,negative,positive,joy
-3801,CLET001503,,,,Della necessità di riunire il Consiglio se Puccini aderirà ad una proposta.,copialettere,Puccini,Giacomo,"Urgente
-Giacomo Puccini
-Torre del Lago
-
-Perdona mio silenzio dovuto molteplici faccende trovate mio ritorno. Per decidere dovrei conoscere proposta offertati e radunare mio Consiglio. Se aderisci fammi conoscere subito condizioni - interpellerò immediatamente consiglieri. Cordiali saluti
-Tito Ricordi",negative,negative,negative,sadness
-3803,CLET001505,,,,Riguardo intenzione di Puccini di cambiare editore.,copialettere,Puccini,Giacomo,"Giacomo Puccini
-Torre del Lago
-Tornato città trovo tuo telegramma giorno undici. Benché io pure addolorato sino dal primo giorno che credesti lasciare tuoi primi editori non temere legami vecchia amicizia siano alterati. Affettuosi saluti
-Tito Ricordi",negative,negative,negative,sadness
 3805,CLET001506,21.0,9.0,1916.0,Rifiuto della proposta fatta da Puccini per la cessione del Tabarro e nuova offerta per la stessa.,copialettere,Puccini,Giacomo,"21.IX.16
 
 Caro Puccini,
@@ -9019,10 +8311,6 @@ Come ti scrissi Chiusuri, il decifratore più antico dei tuoi geroglifici, è a 
 Con un affettuoso abbraccio credimi
 il tuo
 Tito Ricordi",negative,negative,negative,sadness
-3816,CLET001509,,,,Chiede quando mandare Clausetti per prendere la partitura e quando potrà andare a Torre del Lago.,copialettere,Puccini,Giacomo,"Giacomo Puccini
-Torre del Lago
-Siamo d'accordo manderei Clausetti per partitura Telegrafami quando desideri venga Torre     Affettuosi saluti
-Tito Ricordi",negative,negative,positive,joy
 3819,CLET001510,3.0,12.0,1916.0,Accordi economici riguardanti la cessione dell'opera Il Tabarro.,copialettere,Puccini,Giacomo,"Milano li 3 Dicembre 1916
 
 Illm°. Sig. M°. Giacomo Puccini
@@ -9040,11 +8328,6 @@ G Ricordi C.",negative,negative,negative,sadness
 Torre del Lago
 Clausetti arriverà domattina domenica da Pisa ore 9.17- Abbraccioti
 Tito Ricordi",negative,neutral,positive,joy
-3824,CLET001512,,,,"Arrivo di Clausetti con materiale, già in lavorazione.",copialettere,Puccini,Giacomo,"Giacomo Puccini
-Torre del Lago
-
-Clausetti arrivato con tutto- Ferve già il lavoro- Come puoi bene immaginarti sono felicissimo- Ti abbraccio
-Tito Ricordi",positive,positive,positive,joy
 3827,CLET001513,16.0,12.0,1916.0,"Informa che prima dell'annuncio del Tabarro al Costanzi, la Carelli dovrà mettersi d'accordo con Puccini per gli esecutori.",copialettere,Puccini,Giacomo,"Giacomo Puccini
 Torre del Lago
 
@@ -9067,10 +8350,6 @@ Attendiamo Sue pregiate istruzioni per il pagamento di tale somma ed intanto con
 devot.
 pp G: Ricordi . C.
 NCosta",negative,neutral,negative,joy
-3834,CLET001516,,,,"Chiede di leggere Suor Angelica, che Puccini sta già componendo; Auguri per esecuzione Monte Carlo.",copialettere,Puccini,Giacomo,"Giacomo Puccini
-Torre del Lago
-Telegrafato Forzano - desidero molto leggere anche Suor Angelica - Apprendo già cominciasti comporre il che mi riempie grande gioia. Auguri Monte Carlo. Abbraccioti
-Tito Ricordi",positive,positive,positive,joy
 3837,CLET001517,5.0,6.0,1917.0,Auguri,copialettere,Puccini,Giacomo,"Urgente
 Giacomo Puccini
 Teatro Comunale - Bologna
@@ -9313,16 +8592,6 @@ L. 5000.- col qui unito Vaglia Banca Italia N° 0137727.
 PregandoLa di ritornarci firmata l'unita quitanza, Le presentiamo, Egregio Maestro, i nostri distinti saluti.
 pp. G. Ricordi . C.
 NCosta",negative,neutral,negative,joy
-3903,CLET001540,,,,Ricezione pagine partitura dello Schicchi.,copialettere,Puccini,Giacomo,"Giacomo Puccini
-Viareggio
-Ricevuto quattro pagine partitura Schicchi. Spero ricevere presto altro manoscritto. 
-Affettuosi saluti
-Tito Ricordi",positive,positive,positive,joy
-3905,CLET001541,,,,Ricezione pagine partitura dello Schicchi poste subito in lavorazione,copialettere,Puccini,Giacomo,"Giacomo Puccini
-Viareggio
-Ricevuti trentatre fogli Schicchi che mettiamo immediatamente in lavorazione 
-Abbraccio
-Tito Ricordi",positive,positive,positive,joy
 3907,CLET001542,30.0,3.0,1918.0,Pagamento convenuta rata mensile.,copialettere,Puccini,Giacomo,"RACCOMANDATA
 
 Milano 30 Marzo 1918
@@ -10193,11 +9462,6 @@ Valcarenghi",negative,negative,positive,joy
 Savoy Hôtel Londra
 Pregoti darmi notizie prove Trittico abbracci
 Valcarenghi",positive,positive,positive,joy
-4215,CLET001639,29.0,6.0,1920.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Torrelago
-Salajno messosi comunicazione Londra concludere per meglio riguardo suo desiderio
-Saluti
-Ricordi",negative,negative,positive,joy
 4217,CLET001640,1.0,7.0,1920.0,Indirizzo Valcarenghi a Parigi,copialettere,Puccini,Giacomo,"Puccini
 Torrelago
 Valcarenghi trovasi Parigi indirizzo Ricordi éditeur Saluti
@@ -10388,11 +9652,6 @@ Carlo Clausetti             NCosta",negative,neutral,negative,joy
 4282,CLET001659,10.0,8.0,1921.0,Invio passaporto con visti.,copialettere,Puccini,Giacomo,"Maestro Puccini
 Torre del Lago
 Spedisco passaporto con visto Cecoslovacchia Austria Germania prevengoti però assolutamente vietata entrata Baviera senza permesso polizia colà che potrai richiedere telegraficamente a mezzo Questura Lucca oppure otterrai in Germania abbraccioti Claudio",negative,negative,negative,anger
-4284,CLET001660,,,,"Chiede permesso di chiedere alla Scala la rinuncia al Trittico, a seguito del malcontento di Puccini.",copialettere,Puccini,Giacomo,"Maestro Puccini
-Regina Palast Hotel
-München
-ricevo tua lettera stop innanzi tuo rinnovato malcontento circa stato cose purtroppo non modificabile riguardo direzione Trittico telegrafami se mi autorizzi chiedere Scala rinunzia opera
-Saluti Clausetti",negative,negative,negative,anger
 4286,CLET001661,8.0,9.0,1921.0,"Invio Bollettino della Sociètè des Auteurs, Compositeurs et Editeurs de Musique.",copialettere,Puccini,Giacomo,"Milano 8 Settembre 1921
 
 Illm°. Sig. Comm. M°. Giacomo Puccini
@@ -10925,22 +10184,6 @@ G. RICORDI & C.
 I GERENTI
 Renzo Valcarenghi
 Carlo Clausetti",negative,negative,positive,joy
-4431,CLET001702,12.0,5.0,1923.0,,copialettere,Clausetti,Pietro,"                       12. V. 23
-
-Caro Giacomo,
-ti ho spedito una copia dattilografata dell'intero libretto Turandot, più un estratto (in italiano e in tedesco) delle didascalie riguardanti le scene.
-Ho letto quanto tu scrivi a proposito del Prof. Roller. Se tu credi utile ch'egli ti dia qualche consiglio, nulla di meglio – ma per varie ragioni che tu comprenderai senza che io te le esponga, sarebbe bene che per la composizione dei bozzetti si dia la preferenza a un artista italiano.
-Adami ci ha letto il testo definitivo del libretto. Ne abbiamo riportato una magnifica impressione. Specialmente il Terzo atto è riuscito di un interesse e di un'efficacia non comuni. I varii difficili problemi che in esso si affacciavano sono stati risolti in modo ammirevole. Tu hai ora un canovaccio sul quale puoi intessere la tua musica in perfetta intesa col tuo sentimento di artista e col tuo temperamento. Epperò oramai noi consideriamo Turandot come compiuta!
-Qui acclusi ti spedisco degli estratti delle critiche berlinesi (in traduzione) su Schicchi. Il successo non poteva essere più completo e più caloroso. Leggerai in esse alcune frasi molto significative!
-Dacci notizie di Manon. Quando sarà data? E come vien fuori l'esecuzione?
-Ritengo che a quest'ora avrai veduto mio figlio Pietro, il quale sarà certo ben felice di poterti esser vicino in questo momento e di assistere all'avvenimento d'arte che oggi interessa tutta Vienna.
-Salutamelo tanto e raccomandagli di utilizzare bene il suo tempo, in modo che abbia un giorno a risentire il beneficio di questa sua dimora in uno dei più importanti centri artistici di Europa.
-Tante cose cordiali anche a Tonio, e a te mille augurii e un abbraccio affettuoso
-                                                                                                                                Carlo
-
-                                                                                         Saluti affettuosi
-                                                                                                         Renzo
-",negative,negative,positive,joy
 4437,CLET001703,23.0,5.0,1923.0,Probabile prima di Bohème.,copialettere,Puccini,Giacomo,"MaestroPuccini
 fermo telegrafo       Bolzano
 Ritiensi Bohème andrà scena trenta corrente. Cordiali saluti
@@ -10951,23 +10194,6 @@ Viareggio
 esecuzione non giustifica affatto ritiro spartito tanto più tutte prove essendosi fatte sotto vigilanza diretta Toscanini 
 Saluti cordiali
 Ricordi",negative,negative,positive,sadness
-4442,CLET001705,28.0,6.0,1923.0,,copialettere,Puccini,Giacomo,"RACCOMANDATA
-
-Milano li 28 Giugno 1923
-
-Ill° M° Comm. Giacomo Puccini
-                                                      VIAREGGIO
-
-Come d'accordo, ci pregiamo farLe tenere qui accluso i seguenti 3 Buoni Banca Italia di L. 50.000.- cadauno, N° 0787.159, 0787157, 0787.158, complessivamente quindi
-L. 150.000.- (Lire Centocinquantamila) che portiamo a debito del di Lei Conto Corrente.
-Ci è gradito l'incontro per presentarLe, Illustre Maestro, i nostri più distinti saluti.
-
-G. RICORDI & C.
-I GERENTI
-Renzo Valcarenghi
-Carlo Clausetti
-
-P.S.- Uniamo per regolarità, la relativa quitanza, ch'Ella si compiacerà ritornarci, munita della riverita di Lei firma. Anticipati ringraziamenti.",negative,neutral,negative,joy
 4445,CLET001706,11.0,7.0,1923.0,Invio bozze di Tosca per chiarimenti; richiesta notizie Turandot; raccomandazione M° Pais.,copialettere,Puccini,Giacomo,"11.VII.23
 
 Caro Giacomo, ti accludo alcune pagine di bozze partitura Tosca, perché tu voglia darci dei chiarimenti.
@@ -11026,10 +10252,6 @@ Ho preso nota di quanto hai scritto a Renzo circa il soprano della Fanciulla a V
 Ho il piacere di dirti che si sta lavorando alacremente alla copia della partitura I atto Turandot. E come va il lavoro?
 Ricordami a tutti i tuoi, salutami Adami, e prendi un affettuoso abbraccio
 tuo Claudio",negative,negative,positive,joy
-4461,CLET001710,,,,Nessun contratto per Manon Rimini.,copialettere,Puccini,Giacomo,"Maestro Puccini
-Cutigliano
-Nessun contratto per Manon Rimini. Saluti
-Ricordi",negative,neutral,negative,sadness
 4463,CLET001711,20.0,8.0,1923.0,M° Pais scritturato a Palermo; invio di due cataloghi di soggetti per medaglia (ditta Johnson). Il figlio di Clausetti entrerà alla Scala come sostituto,copialettere,Clausetti,Pietro,"20.VIII.23
 
 Caro Giacomo, mi sono subito occupato di quanto desideri cui la lettera di jeri.
@@ -11045,15 +10267,6 @@ Ti auguro buona gita. Anch'io in questi giorni tornerò a fare qualche assenza, 
 Ti abbraccio affettuosamente anche da parte di Renzo
 tuo
 Claudio",negative,negative,positive,joy
-4466,CLET001712,,,,Auguri per esito Fanciulla de lWest.,copialettere,Puccini,Giacomo,"Maestro Puccini
-Viareggio
-Clausetti assente invioti miei più affettuosi auguri per trionfale esito fanciulla        abbraccioti
-Valcarenghi",positive,positive,positive,joy
-4469,CLET001713,,,,Invio materiale richiesto.,copialettere,Puccini,Giacomo,"Maestro Puccini
-Viareggio
-Spediamo subito materiale richiestoci
-Augurii e saluti
-Ricordi",positive,positive,positive,joy
 4471,CLET001714,28.0,9.0,1923.0,Riguardo a direttore e cantanti per Fanciulla al Teatro della Pergola; suggerimento di Redaelli come direttore scenico; accomodi partitura Manon.,copialettere,Puccini,Giacomo,"Milano 28 Settembre 1923
 
 Caro Giacomo,
@@ -11083,17 +10296,6 @@ La Signora Fosca mi ha informato di non partire che la prima di Manon a Vienna �
 Affettuosi saluti anche da parte di Renzo
 Ti abbraccio
 Claudio",negative,negative,negative,sadness
-4483,CLET001717,,,,Auguri per prima a Vienna; successo Fanciulla a Venezia.,copialettere,Puccini,Giacomo,"Maestro Puccini
-Staatsoper Wien
-
-affettuosi augurii per stasera stop fanciulla Venezia già quattro recite ottimo successo
-cordiali saluti
-Ricordi",positive,positive,positive,joy
-4485,CLET001718,,,,Rallegramenti.,copialettere,Puccini,Giacomo,"Maestro Puccini
-Staatsoper Wien
-
-rallegramenti vivissimi abbracci
-Clausetti Valcarenghi",positive,positive,positive,joy
 4488,CLET001719,19.0,12.0,1923.0,"Comunicazione della Dresdner Bank, inviata dalla Casa di Lipsia.",copialettere,Puccini,Giacomo,"Milano 19 Dicembre 1923
 
 Illm° Grand'Uff. M°. Giacomo Puccini
@@ -11202,16 +10404,6 @@ Caro Giacomo, jeri stesso - appena ricevuto il tuo biglietto - ti ho spedito la 
 Saluti affettuosi anche a nome di Renzo.
 tuo
 Carlo",negative,positive,positive,joy
-4525,CLET001728,,,,Felicitazioni compimento libretto.,copialettere,Puccini,Giacomo,"Maestro Giacomo Puccini
-Viareggio
-
-felicitiamo vivamente amico Adami per compiuto miracolo rivolgiamo a te fervidi affettuosi augurii per sollecito compimento Turandot che sarà una fra più preziose gemme nostra arte diletta abbracci fraterni
-Renzo  Claudio",positive,positive,positive,joy
-4529,CLET001729,,,,Consegna seguito partitura.,copialettere,Puccini,Giacomo,"Maestro Puccini
-Viareggio
-
-felicissimi consegna seguito partitura segue lettera abbracciamoti
-Renzo Carlo",positive,negative,positive,joy
 4532,CLET001730,5.0,4.0,1924.0,"Consegna manoscritto partitura e conseguente pagamento, come da contratto.",copialettere,Puccini,Giacomo,"Milano 5 Aprile 1924
 RACCOMANDATA
 
@@ -11370,14 +10562,6 @@ Credo che la scelta della Meson-Liù sia ottima, sia per voce che per il resto. 
 Il M° Zuccoli ha continuato a interessarsi ai gong: fra pochi giorni avremo un campione di essi e dello xilofono basso e li sentiremo.
 Trovo eccellente l'idea della gita a Losanna per il tuo disturbo. Già sin da ora tutti siamo convintissimi che non v'è alcuna ragione di preoccupazione: un grande specialista certo saprà indicare meglio di qualunque altro, la giusta via curativa.
 //Con un abbraccio affettuoso anche da parte di Renzo, abbimi sempre tuo Carlo",negative,negative,positive,sadness
-4585,CLET001743,,11.0,1924.0,Auguri di pronta guarigione.,copialettere,Puccini,Giacomo,"Maestro Giacomo Puccini
-Institut Couronne Rue de la Couronne 2 Bruxelles
-Lietissimo apprendere tue buone notizie faccio fervidissimi voti per completa rapida guarigione abbraccioti fraternamente
-Renzo",positive,positive,negative,sadness
-4587,CLET001744,,11.0,1924.0,Incoraggiamento per miglioramento salute.,copialettere,Puccini,Giacomo,"Maestro Puccini
-Institut Couronne Bruxelles
-Lieto notizie vieppiù confortanti ti son vicino col cuore abbraccioti fraternamente
-Valcarenghi",positive,negative,positive,sadness
 4589,CLET001754,1.0,7.0,1912.0,Ricerca di un soggetto per Puccini.,copialettere,Puccini,Giacomo,"1° luglio 1912
 
 Caro Giacomo,
@@ -11402,10 +10586,6 @@ Domani o dopo ti manderò una fotografia del povero pappà sul suo letto di mort
 Ti abbraccio
 il tuo
 Tito Ricordi",negative,negative,negative,sadness
-4602,CLET001758,,,,Propongono di andare a trovare Puccini.,copialettere,Puccini,Giacomo,"Giacomo Puccini
-Viale Manin - Viareggio
-Verremo un giorno questa settimana trovarti idea va va non va amici sempre tuoi
-Illica Giovanni Pozza",negative,negative,positive,joy
 4605,CLET001760,30.0,7.0,1912.0,"Chiede se andando a Bayreuth Puccini passerà da Milano, in modo da poter parlare  e chiarirsi con Tito.",copialettere,Puccini,Giacomo,"30.VII.1912
 
 Caro Giacomo,
@@ -11552,10 +10732,6 @@ E l'altro soggetto? hai trovato?
 Di fretta
 il tuo aff°
 Tito Ricordi",negative,negative,negative,sadness
-4666,CLET001786,,,,Chiede di non prendere impegni per film su di lui fino alla visita di Rossi.,copialettere,Puccini,Giacomo,"Giacomo Puccini
-Torre del Lago
-Apprendo promettersi lasciare eseguire film tua persona. Nome amico [*]odato Rossi pregoti non impegnarti con nessuno aspettando sua visita prossima Abbraccioti
-Tito Ricordi",negative,negative,positive,joy
 4669,LLET014246,10.0,10.0,1899.0,Giulio scrive una lunga lettera spiegando come il terzo atto di Tosca scritto da Puccini gli pare sia un grave errore di concetto e fattura.,lettera,Giacosa,Giuseppe,"Milano 10 Ott. 99.
 
 Puccini carissimo –
@@ -11637,23 +10813,6 @@ Tito è tornato jeri soltanto: fra due o tre giorni ci troveremo con Giacosa, po
 
 Chissà, leggendo questa interminabile mia, quanti movimenti di impazienza, di rivolta le saranno sfuggiti!!... Povero figliolo! – Io non mi pento: mi sento il cuore più tranquillo, l’animo più leggiero e dico a questo mio scritto: va – e penetra nel cuore suo e fallo, in nome di Dio, persuaso dell’affetto grande, vero, leale che ti ha dettato ed è con simile affetto ch’io l’abbraccio teneramente
 Suo Giulio Ricordi",negative,negative,negative,sadness
-4678,CLET001790,22.0,10.0,1891.0,,copialettere,Puccini,Giacomo,"22 Ott.[bre]1891
-
-Caris. Puccini
-    Da molto tempo sono senza sue nuove: fu a Bologna?...come andò colla Sig.a Pasqua?.. nulla me ne scrisse, quantunque si trattasse di cosa importante!-
-    Sono poi spiacentissimo dirle che sono veramente in collera con Lei!.. mi duole vederle sciupare un tempo prezioso….perdere i migliori anni di vita senza frutto!- Questa sciagurata Manon ……è di là da venire!!..
-Né io posso menarle buona la scusa del 2° Atto!!....un uomo che lavori davvero, avrebbe dovuto a quest’ora consegnarmi 3° e 4° atto, finiti e strumentati!!....e non se ne # sente nemmeno l’odore!...E se questo 2° atto non va bene, come si accomoda?...bisogna pure pensarvi.
-    Quando con Lei si parlò di una sua corsa a Bologna, erasi rimasto d'accordo che avrebbe fatto una punta a Milano, ove di queste cose tutte sarebbesi parlato, decidendosi anche per Edgar se ridurlo a 3 atti, o no, e vedere in qual modo. Nulla più ho saputo.
-    Certo così non si può continuare, e si avverano le mie previsioni che, lontano da Milano, Ella avrebbe avuto danno anzichè giovamento- Nè come le dissi che non meno buona la scusa del 2° # Atto, così non le meno buona la scusa dell'Edgar a Lucca: tutt'al più sarebbero alcuni giorni perduti, non mesi e mesi!....
-Così....gli altri fanno, lavorano, camminano innanzi, e Puccini se ne sta a Torre del Lago, che per me è la torre dell'ozio.
-     Mi sanguina davvero il cuore nello scriverle così!.....ed Ella non si immagina neppure quanto bene e quanta stima ho per Lei: ma è appunto questo sentimento che mi fa un dovere di parlarle aperto e franco!..Ella si rovina la carriera....e null'altro.
-E se questa Manon non le tornava a genio , perchè incatramarsi in questo gineprajo? ....perchè # farmi buttar via migliaja, e migliaja di lire, proprio da minchione, senza vederne mai un costrutto?....Come si può pensare ad altri lavori futuri.....quando il presente segna 0?...
-    Ella dissemi che mi considera come un padre!...se ciò è vero, mi sento autorizzato a scriverle come avrei fatto a un figlio.
-    Pensi, dunque, e seriamente a prendere una decisione da uomo: così, e non altrimenti dev'essere se vuole assicurarsi avvenire e nome.
-Cordialmente suo aff.
-Giulio Ricordi
-
-",negative,negative,negative,sadness
 4680,CLET001799,30.0,8.0,1891.0,inviato a Puccini e a Vanzo,copialettere,Puccini,Giacomo,"Puccini Vanzo
 Via Garibaldi 61 Lucca
 Se impressione dopo prima lettura consiglierei pazientare.
@@ -11669,14 +10828,6 @@ Impossibile lasciare ora studio. Verrò per prova generale se avvisato in tempo 
 scena. Telegrafo impresa per orchestra ma non credo possibile visto circostanze fare cambiamenti radicali.
 Consiglio fare buona prova parziale legni.
 Ricordi",negative,neutral,negative,sadness
-4685,CLET001801,2.0,9.0,1891.0,,copialettere,Puccini,Giacomo,"[2-9-91]
-R.P.
-Puccini
-Garibaldi 61.  Lucca.
-
-Lieto miglioria ottenuta. Verrei Giovedì ore 6 pom.
-Telegrafatemi se sta bene arrivando tempo prova senza morire di fame
-Giulio",positive,neutral,negative,sadness
 4687,CLET001802,26.0,9.0,1891.0,affitto; invia mensilità; Carignani a letto,copialettere,Puccini,Giacomo,"26 7mbre 91
 
 Caro Puccini,
@@ -11736,21 +10887,6 @@ Teatro Comunale.  Ferrara.
 
 Se primo secondo atto bene non havvi ragione perché terzo pure così provandolo quanto necessita. Anche prime prove Lucca tutte masse sembravano impossibili. Sono esigente con Impresa ma relativamente risorse teatri. Colla pazienza ottengosi miracoli.
 Ricordi",negative,neutral,negative,sadness
-4712,LLET031064,23.0,4.0,1909.0,,lettera,Puccini,Giacomo,"Louis V. Ledoux a Giacomo Puccini
-[su carta intestata Ledoux & Company, 99 John Street, New York]
-
-New York, April 23, 1909
-
-Dear Sir,
-	Having seen in one of the New York papers an interview in which you were reported to have said you were looking for a grand opera libretto, in which the plot and the setting would be a little away from the ordinary, I venture to send you the manuscript of a play that could easily be made into a libretto, and that would, I think, be very well suited for operatic treatment by you.
-	Should you decide to take it, I would naturally wish to reserve the acting rights in English and other languages, as I am still in a negotiation that has dragged for over a year with the Bernhardts. It is also possible that I may succeed in arranging productions other that the French, especially if Mme Bernhardt decides to take the piece. One or two people have suggested that M.me Duse might be interested init, but I have not yet sent her a copy, having waited in the hope of hearing something definite from Paris.
-	Please be so kind as to let me hear if ""Yzdra"" appeals to you, and if it does not, kindly return the manuscript.
-	Sincerely yours,
-
-Louis V. Ledoux.
-
-To Mr Giacomo Puccini.
-",negative,negative,positive,joy
 4714,CLET002139,21.0,6.0,1901.0,Hanno inviato la sua lettera al fratello Giacomo e le restituiscono i francobolli che aveva allegato,copialettere,Puccini,Giacomo,"21 Giugno 1901
 Rev: Suor Giulia Enrichetta Puccini
 Vicopelago, M° S.Agostino 
@@ -11760,29 +10896,6 @@ In possesso del preg. di Lei foglio 19 corr abbiamo inoltrato l’acclusa letter
 Essendo nostro sistema di tenere a nostro carico le spese di corrispondenza ci permettiamo di ritornarle i francobolli favoritici per la risposta.
 Colla massima stima e considerazione ci rassegnamo 
 devot.",negative,negative,positive,joy
-4717,CLET002324,15.0,12.0,1904.0,,copialettere,Puccini,Giacomo,"[…] 
-Per dire il vero, non ci spiace che Ella abbia poca voglia di andare al Cairo ad onta del grandissimo successo di Butterfly! Abbiamo veduto un telegramma della Sig. Pandolfini a suo fratello tenore. Descriveva il più grande entusiasmo a segno che ogni fin d'atto il pubblico si levava in piedi acclamando. ...
-
-In seguito al di Lei biglietto indirizzato al nostro Blanc abbiamo l'onore di compiegare l'estratto del di Lei conto per questo secondo semestre. Le rimettiamo in pari tempo la somma di L.10mila come a distinta in calce. Rimangono così a di Lei disposizione L.27714.63. 
-[...]",negative,negative,negative,sadness
-4718,CLET002365,30.0,6.0,1906.0,,copialettere,Puccini,Giacomo,"30 giugno 1906
-Riceviamo le grad/ sue lett. 27 e car/ 28. Oggi stesso spediamo all'ottimo di Lei Sig. Antonio uno chèque di Mk.150.- s/ Francoforte. Mandiamo pure al Sig. Bettolacci costì una copia Madama Butterfly come al di Lei desiderio. 
- [...] 
-pGRC Cav. Tornaghi",negative,neutral,positive,joy
-4721,CLET003642,15.0,11.0,1903.0,,copialettere,Puccini,Giacomo,"AL MAESTRO GIACOMO PUCCINI
-TORRE DEL LAGO
-
-	I Soci della Ditta G. Ricordi & C. riuniti in assemblea nel giorno 15 Novembre 1903 inviano a Giacomo Puccini l’espressione del loro più vivo compiacimento per lo scampato pericolo, mentre in pari tempo si felicitano per la ormai bene avviata guarigione, la quale sperano sarà in breve completa.
-	Presentano i loro cordiali auguri all’illustre Maestro, dal quale tanto onore risplende all’arte italiana, e sperano gradirà l’espressione di tali loro sentimenti.
-",positive,positive,negative,joy
-4723,CLET003645,19.0,9.0,1924.0,,copialettere,Puccini,Giacomo,"Maestro Puccini
-Viareggio
- 
-Trattasi appunto discussione indispensabile
-improrogabile circa finale libretto e scene
-stop sta benissimo lunedì aspettiamoti stop
-ho provveduto appuntamento con tutti abbraccioti
-Carlo",negative,positive,positive,joy
 4725,CLET003646,3.0,3.0,1926.0,Toscanini non muove altre obiezioni al completamento di Alfano e dà via libera per la stampa dei materiali d'orchestra,copialettere,Toscanini,Arturo,"3.III.26
 
 Caro Tonio,
@@ -11796,11 +10909,6 @@ Carlo Clausetti
 
 
 [nota: manca la firma di Valcarenghi]",positive,negative,positive,joy
-4730,CLET003653,11.0,12.0,1903.0,,copialettere,Puccini,Giacomo,"Puccini
-Torre del Lago
-Ripeto 35089 perfetta 51400. 48969 viene soltanto per definire varie incertezze urgendo 42106 atto 49554. 37911 sarà utile informarla 33741 51492. Dunque piena 40782. Saluti cordiali.
-Ricordi
-",positive,neutral,negative,sadness
 4731,CLET003656,18.0,9.0,1907.0,Ricordi invita Puccini a mettersi in contatto con Tito II a Venezia,copialettere,Puccini,Giacomo,"[18.9.07]
 Puccini
 Torrelago
